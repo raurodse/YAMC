@@ -1,0 +1,224 @@
+[Sun Feb 26 19:41:53 2012] [info] Server listening (http://*:3000)
+[Sun Feb 26 20:14:45 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sun Feb 26 20:14:45 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 20:14:45 2012] [debug] Dispatching "Yamc::Example->welcome".
+[Sun Feb 26 20:14:45 2012] [debug] Rendering template "example/welcome.html.ep".
+[Sun Feb 26 20:14:45 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sun Feb 26 20:14:45 2012] [debug] 200 OK (0.007160s, 139.665/s).
+[Sun Feb 26 20:14:50 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 20:14:50 2012] [debug] Dispatching "Yamc::Example->welcome".
+[Sun Feb 26 20:14:50 2012] [debug] 200 OK (0.001707s, 585.823/s).
+[Sun Feb 26 20:14:52 2012] [debug] GET /raul (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 20:14:52 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sun Feb 26 20:14:52 2012] [debug] Template "not_found.html.ep" not found.
+[Sun Feb 26 20:14:52 2012] [debug] Rendering inline template.
+[Sun Feb 26 20:14:52 2012] [debug] Rendering inline template.
+[Sun Feb 26 20:14:52 2012] [debug] 404 Not Found (0.016480s, 60.680/s).
+[Sun Feb 26 20:15:06 2012] [info] Server listening (http://*:3000)
+[Sun Feb 26 20:15:08 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sun Feb 26 20:15:08 2012] [debug] GET /raul (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 20:15:08 2012] [debug] Dispatching "Yamc::Example->welcome".
+[Sun Feb 26 20:15:08 2012] [debug] Rendering template "example/welcome.html.ep".
+[Sun Feb 26 20:15:08 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sun Feb 26 20:15:08 2012] [debug] 200 OK (0.008085s, 123.686/s).
+[Sun Feb 26 20:15:10 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 20:15:10 2012] [debug] Dispatching "Yamc::Example->adios".
+[Sun Feb 26 20:15:10 2012] [debug] Template "example/adios.html.ep" not found.
+[Sun Feb 26 20:15:10 2012] [debug] Template "example/adios.html.ep" not found.
+[Sun Feb 26 20:15:10 2012] [debug] Nothing has been rendered, assuming delayed response.
+[Sun Feb 26 20:15:25 2012] [error] Inactivity timeout.
+[Sun Feb 26 20:15:25 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 20:15:25 2012] [debug] Dispatching "Yamc::Example->adios".
+[Sun Feb 26 20:15:25 2012] [debug] Template "example/adios.html.ep" not found.
+[Sun Feb 26 20:15:25 2012] [debug] Template "example/adios.html.ep" not found.
+[Sun Feb 26 20:15:25 2012] [debug] Nothing has been rendered, assuming delayed response.
+[Sun Feb 26 20:16:27 2012] [debug] GET /raul (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 20:16:27 2012] [debug] Dispatching "Yamc::Example->welcome".
+[Sun Feb 26 20:16:27 2012] [debug] 200 OK (0.001655s, 604.230/s).
+[Sun Feb 26 20:18:28 2012] [debug] GET /raul (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 20:18:28 2012] [debug] Dispatching "Yamc::Example->welcome".
+[Sun Feb 26 20:18:28 2012] [debug] 200 OK (0.001687s, 592.768/s).
+[Sun Feb 26 20:18:31 2012] [debug] GET /raul (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 20:18:31 2012] [debug] Dispatching "Yamc::Example->welcome".
+[Sun Feb 26 20:18:31 2012] [debug] 200 OK (0.001665s, 600.601/s).
+[Sun Feb 26 20:18:34 2012] [debug] GET /raul (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 20:18:34 2012] [debug] Dispatching "Yamc::Example->welcome".
+[Sun Feb 26 20:18:34 2012] [debug] 200 OK (0.001871s, 534.474/s).
+[Sun Feb 26 20:18:50 2012] [info] Server listening (http://*:3000)
+[Sun Feb 26 20:18:51 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sun Feb 26 20:18:57 2012] [debug] GET /raul (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 20:18:57 2012] [debug] Dispatching "Yamc::Example->welcome".
+[Sun Feb 26 20:18:57 2012] [debug] Rendering template "example/welcome.html.ep".
+[Sun Feb 26 20:18:57 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sun Feb 26 20:18:57 2012] [debug] 200 OK (0.008012s, 124.813/s).
+[Sun Feb 26 20:19:10 2012] [debug] GET /raul (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 20:19:10 2012] [debug] Dispatching "Yamc::Example->welcome".
+[Sun Feb 26 20:19:10 2012] [debug] 200 OK (0.001670s, 598.802/s).
+[Sun Feb 26 20:19:12 2012] [info] Server listening (http://*:3000)
+[Sun Feb 26 20:19:15 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sun Feb 26 20:19:15 2012] [debug] GET /raul (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 20:19:15 2012] [debug] Dispatching "Yamc::Example->welcome".
+[Sun Feb 26 20:19:15 2012] [debug] Rendering template "example/welcome.html.ep".
+[Sun Feb 26 20:19:15 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sun Feb 26 20:19:15 2012] [debug] 200 OK (0.008242s, 121.330/s).
+[Sun Feb 26 20:19:32 2012] [info] Server listening (http://*:3000)
+[Sun Feb 26 20:19:35 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sun Feb 26 20:19:35 2012] [debug] GET /raul (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 20:19:35 2012] [debug] Dispatching "Yamc::Example->welcome".
+[Sun Feb 26 20:19:35 2012] [debug] Rendering template "example/welcome.html.ep".
+[Sun Feb 26 20:19:35 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sun Feb 26 20:19:35 2012] [debug] 200 OK (0.007141s, 140.036/s).
+[Sun Feb 26 20:19:37 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 20:19:37 2012] [debug] Dispatching "Yamc::Example->adios".
+[Sun Feb 26 20:19:37 2012] [debug] Template "example/adios.html.ep" not found.
+[Sun Feb 26 20:19:37 2012] [debug] Template "example/adios.html.ep" not found.
+[Sun Feb 26 20:19:37 2012] [debug] Nothing has been rendered, assuming delayed response.
+[Sun Feb 26 20:20:07 2012] [info] Server listening (http://*:3000)
+[Sun Feb 26 20:20:08 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sun Feb 26 20:20:08 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 20:20:08 2012] [debug] Dispatching "Yamc::Example->adios".
+[Sun Feb 26 20:20:08 2012] [debug] Template "example/adios.html.ep" not found.
+[Sun Feb 26 20:20:08 2012] [debug] Template "example/adios.html.ep" not found.
+[Sun Feb 26 20:20:08 2012] [debug] Nothing has been rendered, assuming delayed response.
+[Sun Feb 26 20:20:11 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 20:20:11 2012] [debug] Dispatching "Yamc::Example->adios".
+[Sun Feb 26 20:20:11 2012] [debug] Template "example/adios.html.ep" not found.
+[Sun Feb 26 20:20:11 2012] [debug] Template "example/adios.html.ep" not found.
+[Sun Feb 26 20:20:11 2012] [debug] Nothing has been rendered, assuming delayed response.
+[Sun Feb 26 20:20:15 2012] [debug] GET /p (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 20:20:15 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sun Feb 26 20:20:15 2012] [debug] Template "not_found.html.ep" not found.
+[Sun Feb 26 20:20:15 2012] [debug] Rendering inline template.
+[Sun Feb 26 20:20:15 2012] [debug] Rendering inline template.
+[Sun Feb 26 20:20:15 2012] [debug] 404 Not Found (0.017316s, 57.750/s).
+[Sun Feb 26 20:20:19 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 20:20:19 2012] [debug] Dispatching "Yamc::Example->adios".
+[Sun Feb 26 20:20:19 2012] [debug] Template "example/adios.html.ep" not found.
+[Sun Feb 26 20:20:19 2012] [debug] Template "example/adios.html.ep" not found.
+[Sun Feb 26 20:20:19 2012] [debug] Nothing has been rendered, assuming delayed response.
+[Sun Feb 26 20:20:34 2012] [error] Inactivity timeout.
+[Sun Feb 26 20:20:34 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 20:20:34 2012] [debug] Dispatching "Yamc::Example->adios".
+[Sun Feb 26 20:20:34 2012] [debug] Template "example/adios.html.ep" not found.
+[Sun Feb 26 20:20:34 2012] [debug] Template "example/adios.html.ep" not found.
+[Sun Feb 26 20:20:34 2012] [debug] Nothing has been rendered, assuming delayed response.
+[Sun Feb 26 20:20:49 2012] [error] Inactivity timeout.
+[Sun Feb 26 20:20:53 2012] [info] Server listening (http://*:3000)
+[Sun Feb 26 20:20:55 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sun Feb 26 20:20:55 2012] [debug] GET /p (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 20:20:55 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sun Feb 26 20:20:55 2012] [debug] Template "not_found.html.ep" not found.
+[Sun Feb 26 20:20:55 2012] [debug] Rendering inline template.
+[Sun Feb 26 20:20:55 2012] [debug] Rendering inline template.
+[Sun Feb 26 20:20:55 2012] [debug] 404 Not Found (0.018154s, 55.084/s).
+[Sun Feb 26 20:20:58 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 20:20:58 2012] [debug] Dispatching "Yamc::Example->adios".
+[Sun Feb 26 20:20:58 2012] [debug] Template "example/adios.html.ep" not found.
+[Sun Feb 26 20:20:58 2012] [debug] Template "example/adios.html.ep" not found.
+[Sun Feb 26 20:20:58 2012] [debug] Nothing has been rendered, assuming delayed response.
+[Sun Feb 26 20:21:00 2012] [debug] GET /raul (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 20:21:00 2012] [debug] Dispatching "Yamc::Example->welcome".
+[Sun Feb 26 20:21:00 2012] [debug] Rendering template "example/welcome.html.ep".
+[Sun Feb 26 20:21:00 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sun Feb 26 20:21:00 2012] [debug] 200 OK (0.006514s, 153.516/s).
+[Sun Feb 26 20:21:51 2012] [debug] GET /raul (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 20:21:51 2012] [debug] Dispatching "Yamc::Example->welcome".
+[Sun Feb 26 20:21:51 2012] [debug] 200 OK (0.001747s, 572.410/s).
+[Sun Feb 26 20:21:53 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 20:21:53 2012] [debug] Dispatching "Yamc::Example->adios".
+[Sun Feb 26 20:21:53 2012] [debug] Rendering template "example/adios.html.ep".
+[Sun Feb 26 20:21:53 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sun Feb 26 20:21:53 2012] [debug] 200 OK (0.006015s, 166.251/s).
+[Sun Feb 26 20:21:57 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 20:21:57 2012] [debug] Dispatching "Yamc::Example->adios".
+[Sun Feb 26 20:21:57 2012] [debug] 200 OK (0.001440s, 694.444/s).
+[Sun Feb 26 20:22:34 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 20:22:34 2012] [debug] Dispatching "Yamc::Example->adios".
+[Sun Feb 26 20:22:34 2012] [debug] 200 OK (0.001426s, 701.262/s).
+[Sun Feb 26 20:22:36 2012] [debug] GET /raul (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 20:22:36 2012] [debug] Dispatching "Yamc::Example->welcome".
+[Sun Feb 26 20:22:36 2012] [debug] 200 OK (0.001746s, 572.738/s).
+[Sun Feb 26 20:22:42 2012] [debug] GET /p (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 20:22:42 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sun Feb 26 20:22:42 2012] [debug] Template "not_found.html.ep" not found.
+[Sun Feb 26 20:22:42 2012] [debug] 404 Not Found (0.006791s, 147.254/s).
+[Sun Feb 26 21:28:47 2012] [info] Server listening (http://*:3000)
+[Sun Feb 26 21:28:53 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sun Feb 26 21:28:53 2012] [debug] GET /p (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 21:28:53 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sun Feb 26 21:28:53 2012] [debug] Template "not_found.html.ep" not found.
+[Sun Feb 26 21:28:53 2012] [debug] Rendering inline template.
+[Sun Feb 26 21:28:53 2012] [debug] Rendering inline template.
+[Sun Feb 26 21:28:53 2012] [debug] 404 Not Found (0.018170s, 55.036/s).
+[Sun Feb 26 21:28:57 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 21:28:57 2012] [debug] Dispatching "Yamc::Example->adios".
+[Sun Feb 26 21:28:57 2012] [debug] Rendering template "example/welcome.html.ep".
+[Sun Feb 26 21:28:57 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sun Feb 26 21:28:57 2012] [debug] 200 OK (0.006873s, 145.497/s).
+[Sun Feb 26 21:29:00 2012] [debug] GET /raul (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 21:29:00 2012] [debug] Dispatching "Yamc::Example->welcome".
+[Sun Feb 26 21:29:00 2012] [debug] Rendering template "example/welcome.html.ep".
+[Sun Feb 26 21:29:00 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sun Feb 26 21:29:00 2012] [debug] 200 OK (0.006486s, 154.178/s).
+[Sun Feb 26 21:29:07 2012] [debug] GET /p (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 21:29:07 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sun Feb 26 21:29:07 2012] [debug] Template "not_found.html.ep" not found.
+[Sun Feb 26 21:29:07 2012] [debug] 404 Not Found (0.006146s, 162.707/s).
+[Sun Feb 26 21:29:33 2012] [info] Server listening (http://*:3000)
+[Sun Feb 26 21:29:38 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sun Feb 26 21:29:38 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 21:29:38 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sun Feb 26 21:29:38 2012] [debug] Template "not_found.html.ep" not found.
+[Sun Feb 26 21:29:38 2012] [debug] Rendering inline template.
+[Sun Feb 26 21:29:38 2012] [debug] Rendering inline template.
+[Sun Feb 26 21:29:38 2012] [debug] 404 Not Found (0.018478s, 54.118/s).
+[Sun Feb 26 21:29:45 2012] [debug] GET /p (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 21:29:45 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sun Feb 26 21:29:45 2012] [debug] Template "not_found.html.ep" not found.
+[Sun Feb 26 21:29:45 2012] [debug] 404 Not Found (0.006606s, 151.378/s).
+[Sun Feb 26 21:32:46 2012] [info] Server listening (http://*:3000)
+[Sun Feb 26 21:32:49 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sun Feb 26 21:32:49 2012] [debug] GET /p (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 21:32:49 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sun Feb 26 21:32:49 2012] [debug] Template "not_found.html.ep" not found.
+[Sun Feb 26 21:32:49 2012] [debug] Rendering inline template.
+[Sun Feb 26 21:32:49 2012] [debug] Rendering inline template.
+[Sun Feb 26 21:32:49 2012] [debug] 404 Not Found (0.016822s, 59.446/s).
+[Sun Feb 26 21:32:52 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 21:32:52 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sun Feb 26 21:32:52 2012] [debug] Template "not_found.html.ep" not found.
+[Sun Feb 26 21:32:52 2012] [debug] 404 Not Found (0.006054s, 165.180/s).
+[Sun Feb 26 21:33:02 2012] [debug] GET /p (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 21:33:02 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sun Feb 26 21:33:02 2012] [debug] Template "not_found.html.ep" not found.
+[Sun Feb 26 21:33:02 2012] [debug] 404 Not Found (0.006681s, 149.678/s).
+[Sun Feb 26 21:33:05 2012] [debug] GET /raul (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 21:33:05 2012] [debug] Dispatching "Yamc::Example->welcome".
+[Sun Feb 26 21:33:05 2012] [debug] Rendering template "example/welcome.html.ep".
+[Sun Feb 26 21:33:05 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sun Feb 26 21:33:05 2012] [debug] 200 OK (0.007071s, 141.423/s).
+[Sun Feb 26 21:33:08 2012] [debug] GET /p (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 21:33:08 2012] [debug] Template "not_found.development.html.ep" not found.
+[Sun Feb 26 21:33:08 2012] [debug] Template "not_found.html.ep" not found.
+[Sun Feb 26 21:33:08 2012] [debug] 404 Not Found (0.006615s, 151.172/s).
+[Sun Feb 26 21:35:37 2012] [info] Server listening (http://*:3000)
+[Sun Feb 26 21:35:43 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sun Feb 26 21:35:43 2012] [debug] GET /p (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 21:35:43 2012] [debug] Dispatching "Yamc::Example->adios".
+[Sun Feb 26 21:35:43 2012] [debug] Rendering template "example/welcome.html.ep".
+[Sun Feb 26 21:35:43 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sun Feb 26 21:35:43 2012] [debug] 200 OK (0.008148s, 122.730/s).
+[Sun Feb 26 21:35:46 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 21:35:46 2012] [debug] Dispatching "Yamc::Example->adios".
+[Sun Feb 26 21:35:46 2012] [debug] 200 OK (0.001950s, 512.821/s).
+[Sun Feb 26 21:35:49 2012] [debug] GET /raul (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 21:35:49 2012] [debug] Dispatching "Yamc::Example->welcome".
+[Sun Feb 26 21:35:49 2012] [debug] Rendering template "example/welcome.html.ep".
+[Sun Feb 26 21:35:49 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sun Feb 26 21:35:49 2012] [debug] 200 OK (0.007271s, 137.533/s).
+[Sun Feb 26 22:05:45 2012] [debug] GET /perros (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 22:05:45 2012] [debug] Dispatching "Yamc::Example->adios".
+[Sun Feb 26 22:05:45 2012] [debug] 200 OK (0.001657s, 603.500/s).
+[Sun Feb 26 22:05:48 2012] [debug] GET /raul (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sun Feb 26 22:05:48 2012] [debug] Dispatching "Yamc::Example->welcome".
+[Sun Feb 26 22:05:48 2012] [debug] 200 OK (0.001672s, 598.086/s).
