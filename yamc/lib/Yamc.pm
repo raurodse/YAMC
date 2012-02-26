@@ -11,8 +11,9 @@ sub startup {
   # Routes
   my $r = $self->routes;
 
-  # Normal route to controller
-  $r->route('/')->to('example#welcome');
+  # Normal route to controller  
+  $r->route('/:nombre',nombre=>['raul','tere'])->to('example#welcome');
+  $r->route('/:id',id=>qr/.*/)->to('example#adios');
 }
 
 1;

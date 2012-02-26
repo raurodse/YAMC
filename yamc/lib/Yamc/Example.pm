@@ -6,8 +6,17 @@ sub welcome {
   my $self = shift;
 
   # Render template "example/welcome.html.ep" with message
+  my $aux = $self->stash('nombre');
   $self->render(
-    message => 'Welcome to the Mojolicious real-time web framework!');
+    message => "Hola $aux");
+}
+1;
+sub adios {
+  my $self = shift;
+
+  # Render template "example/welcome.html.ep" with message
+  $self->render(template=>'example/welcome',
+    message => 'Esto es una puta mierda');
 }
 
 1;
