@@ -1,0 +1,9 @@
+For Install
+===========
+
+For Launch
+==========
+*In develpment:
+        morbo Yamc/script/yamc
+*In production:
+        hypnotoad Yamc/script/yamc
