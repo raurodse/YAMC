@@ -12,7 +12,7 @@ sub startup {
   my $r = $self->routes;
 
   # Normal route to controller  
-  $r->route('/:nombre',nombre=>['raul','tere'])->to('example#welcome');
+  $r->route('/',)->to('viewer#initial');
   $r->route('/:id',id=>qr/.*/)->to('example#adios');
 }
 

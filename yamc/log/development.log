@@ -222,3 +222,10 @@
 [Sun Feb 26 22:05:48 2012] [debug] GET /raul (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
 [Sun Feb 26 22:05:48 2012] [debug] Dispatching "Yamc::Example->welcome".
 [Sun Feb 26 22:05:48 2012] [debug] 200 OK (0.001672s, 598.086/s).
+[Tue Feb 28 20:52:37 2012] [info] Server listening (http://*:3000)
+[Tue Feb 28 20:52:40 2012] [debug] Your secret passphrase needs to be changed!!!
+[Tue Feb 28 20:52:40 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Tue Feb 28 20:52:40 2012] [debug] Dispatching "Yamc::Example->adios".
+[Tue Feb 28 20:52:40 2012] [debug] Rendering template "example/welcome.html.ep".
+[Tue Feb 28 20:52:40 2012] [debug] Rendering template "layouts/default.html.ep".
+[Tue Feb 28 20:52:40 2012] [debug] 200 OK (0.087961s, 11.369/s).
