@@ -229,3 +229,2358 @@
 [Tue Feb 28 20:52:40 2012] [debug] Rendering template "example/welcome.html.ep".
 [Tue Feb 28 20:52:40 2012] [debug] Rendering template "layouts/default.html.ep".
 [Tue Feb 28 20:52:40 2012] [debug] 200 OK (0.087961s, 11.369/s).
+[Wed Feb 29 19:33:12 2012] [info] Server listening (http://*:3000)
+[Wed Feb 29 19:33:16 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 19:33:16 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 19:33:16 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 19:33:16 2012] [error] Yamc/Viewer.pm did not return a true value at (eval 231) line 1.
+
+[Wed Feb 29 19:33:16 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Feb 29 19:33:16 2012] [debug] Template "exception.html.ep" not found.
+[Wed Feb 29 19:33:16 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:33:16 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:33:16 2012] [debug] 500 Internal Server Error (0.023774s, 42.063/s).
+[Wed Feb 29 19:33:38 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 19:33:38 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 19:33:38 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 19:33:38 2012] [debug] Template "viewer/initial.html.ep" not found.
+[Wed Feb 29 19:33:38 2012] [debug] Template "not_found.development.html.ep" not found.
+[Wed Feb 29 19:33:38 2012] [debug] Template "not_found.html.ep" not found.
+[Wed Feb 29 19:33:38 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:33:38 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:33:38 2012] [debug] 404 Not Found (0.017689s, 56.532/s).
+[Wed Feb 29 19:34:21 2012] [info] Server listening (http://*:3000)
+[Wed Feb 29 19:34:22 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 19:34:22 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 19:34:22 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 19:34:22 2012] [debug] Template "viewer/initial.html.ep" not found.
+[Wed Feb 29 19:34:22 2012] [debug] Template "not_found.development.html.ep" not found.
+[Wed Feb 29 19:34:22 2012] [debug] Template "not_found.html.ep" not found.
+[Wed Feb 29 19:34:22 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:34:22 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:34:22 2012] [debug] 404 Not Found (0.019363s, 51.645/s).
+[Wed Feb 29 19:34:54 2012] [info] Server listening (http://*:3000)
+[Wed Feb 29 19:34:56 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 19:34:56 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 19:34:56 2012] [debug] Template "not_found.development.html.ep" not found.
+[Wed Feb 29 19:34:56 2012] [debug] Template "not_found.html.ep" not found.
+[Wed Feb 29 19:34:56 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:34:56 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:34:56 2012] [debug] 404 Not Found (0.016775s, 59.613/s).
+[Wed Feb 29 19:36:31 2012] [info] Server listening (http://*:3000)
+[Wed Feb 29 19:36:32 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 19:36:32 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 19:36:32 2012] [debug] Template "not_found.development.html.ep" not found.
+[Wed Feb 29 19:36:32 2012] [debug] Template "not_found.html.ep" not found.
+[Wed Feb 29 19:36:32 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:36:32 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:36:32 2012] [debug] 404 Not Found (0.018261s, 54.762/s).
+[Wed Feb 29 19:36:47 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 19:36:47 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 19:36:47 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 19:36:47 2012] [debug] Template "viewer/initial.html.ep" not found.
+[Wed Feb 29 19:36:47 2012] [debug] Template "not_found.development.html.ep" not found.
+[Wed Feb 29 19:36:47 2012] [debug] Template "not_found.html.ep" not found.
+[Wed Feb 29 19:36:47 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:36:47 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:36:47 2012] [debug] 404 Not Found (0.017677s, 56.571/s).
+[Wed Feb 29 19:38:19 2012] [info] Server listening (http://*:3000)
+[Wed Feb 29 19:38:26 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 19:38:26 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 19:38:26 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 19:38:26 2012] [debug] Template "viewer/initial.html.ep" not found.
+[Wed Feb 29 19:38:26 2012] [debug] Template "not_found.development.html.ep" not found.
+[Wed Feb 29 19:38:26 2012] [debug] Template "not_found.html.ep" not found.
+[Wed Feb 29 19:38:26 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:38:26 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:38:26 2012] [debug] 404 Not Found (0.017650s, 56.657/s).
+[Wed Feb 29 19:38:32 2012] [info] Server listening (http://*:3000)
+[Wed Feb 29 19:38:36 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 19:38:36 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 19:38:36 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 19:38:36 2012] [debug] Template "viewer/initial.html.ep" not found.
+[Wed Feb 29 19:38:36 2012] [debug] Template "not_found.development.html.ep" not found.
+[Wed Feb 29 19:38:36 2012] [debug] Template "not_found.html.ep" not found.
+[Wed Feb 29 19:38:36 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:38:36 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:38:36 2012] [debug] 404 Not Found (0.019449s, 51.417/s).
+[Wed Feb 29 19:38:38 2012] [debug] GET /perro (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 19:38:38 2012] [debug] Template "not_found.development.html.ep" not found.
+[Wed Feb 29 19:38:38 2012] [debug] Template "not_found.html.ep" not found.
+[Wed Feb 29 19:38:38 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:38:38 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:38:38 2012] [debug] 404 Not Found (0.015251s, 65.569/s).
+[Wed Feb 29 19:39:27 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 19:39:27 2012] [debug] GET /perro (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 19:39:27 2012] [debug] Template "not_found.development.html.ep" not found.
+[Wed Feb 29 19:39:27 2012] [debug] Template "not_found.html.ep" not found.
+[Wed Feb 29 19:39:27 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:39:27 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:39:27 2012] [debug] 404 Not Found (0.017721s, 56.430/s).
+[Wed Feb 29 19:39:37 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 19:39:37 2012] [debug] GET /perro (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 19:39:37 2012] [debug] Template "not_found.development.html.ep" not found.
+[Wed Feb 29 19:39:37 2012] [debug] Template "not_found.html.ep" not found.
+[Wed Feb 29 19:39:37 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:39:37 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:39:37 2012] [debug] 404 Not Found (0.018516s, 54.007/s).
+[Wed Feb 29 19:39:57 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 19:39:57 2012] [debug] GET /perro (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 19:39:57 2012] [debug] Template "not_found.development.html.ep" not found.
+[Wed Feb 29 19:39:57 2012] [debug] Template "not_found.html.ep" not found.
+[Wed Feb 29 19:39:57 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:39:57 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:39:57 2012] [debug] 404 Not Found (0.016657s, 60.035/s).
+[Wed Feb 29 19:40:03 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 19:40:03 2012] [debug] Dispatching "Yamc::Example->welcome".
+[Wed Feb 29 19:40:03 2012] [debug] Template "example/welcome.html.ep" not found.
+[Wed Feb 29 19:40:03 2012] [debug] Template "example/welcome.html.ep" not found.
+[Wed Feb 29 19:40:03 2012] [debug] Nothing has been rendered, assuming delayed response.
+[Wed Feb 29 19:40:13 2012] [debug] GET /gato%5C (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 19:40:13 2012] [debug] Template "not_found.development.html.ep" not found.
+[Wed Feb 29 19:40:13 2012] [debug] Template "not_found.html.ep" not found.
+[Wed Feb 29 19:40:13 2012] [debug] 404 Not Found (0.006988s, 143.102/s).
+[Wed Feb 29 19:40:16 2012] [debug] GET /gato (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 19:40:16 2012] [debug] Template "not_found.development.html.ep" not found.
+[Wed Feb 29 19:40:16 2012] [debug] Template "not_found.html.ep" not found.
+[Wed Feb 29 19:40:16 2012] [debug] 404 Not Found (0.006591s, 151.722/s).
+[Wed Feb 29 19:41:37 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 19:41:37 2012] [debug] GET /gato (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 19:41:37 2012] [debug] Template "not_found.development.html.ep" not found.
+[Wed Feb 29 19:41:37 2012] [debug] Template "not_found.html.ep" not found.
+[Wed Feb 29 19:41:37 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:41:37 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:41:37 2012] [debug] 404 Not Found (0.018022s, 55.488/s).
+[Wed Feb 29 19:41:41 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 19:41:41 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 19:41:41 2012] [debug] Template "viewer/initial.html.ep" not found.
+[Wed Feb 29 19:41:41 2012] [debug] Template "not_found.development.html.ep" not found.
+[Wed Feb 29 19:41:41 2012] [debug] Template "not_found.html.ep" not found.
+[Wed Feb 29 19:41:41 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:41:41 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:41:41 2012] [debug] 404 Not Found (0.017706s, 56.478/s).
+[Wed Feb 29 19:42:19 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 19:42:19 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 19:42:19 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 19:42:19 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 19:42:19 2012] [error] Global symbol "$message" requires explicit package name at template "viewer/directoryview.html.ep" line 3, near "This page was generated from the template".
+1: % layout 'default';
+2: % title 'Welcome';
+3: <h2><%= $message %></h2>
+4: This page was generated from the template
+5: "templates/example/welcome.html.ep" and the layout
+6: "templates/layouts/default.html.ep",
+7: <a href="<%== url_for %>">click here</a>
+8: to reload the page or
+
+[Wed Feb 29 19:42:19 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Feb 29 19:42:19 2012] [debug] Template "exception.html.ep" not found.
+[Wed Feb 29 19:42:19 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:42:19 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:42:19 2012] [debug] 500 Internal Server Error (0.068708s, 14.554/s).
+[Wed Feb 29 19:42:37 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 19:42:37 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 19:42:37 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 19:42:37 2012] [debug] Template "viewer/initial.html.ep" not found.
+[Wed Feb 29 19:42:37 2012] [debug] Nothing has been rendered, assuming delayed response.
+[Wed Feb 29 19:42:53 2012] [info] Server listening (http://*:3000)
+[Wed Feb 29 19:43:10 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 19:43:10 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 19:43:10 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 19:43:10 2012] [debug] Template "viewer/initial.html.ep" not found.
+[Wed Feb 29 19:43:10 2012] [debug] Nothing has been rendered, assuming delayed response.
+[Wed Feb 29 19:43:25 2012] [error] Inactivity timeout.
+[Wed Feb 29 19:44:15 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 19:44:15 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 19:44:15 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 19:44:15 2012] [debug] Template "viewer/initial.html.ep" not found.
+[Wed Feb 29 19:44:15 2012] [debug] Nothing has been rendered, assuming delayed response.
+[Wed Feb 29 19:44:30 2012] [error] Inactivity timeout.
+[Wed Feb 29 19:44:50 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 19:44:50 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 19:44:50 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 19:44:50 2012] [debug] Template "viewer/initial.html.ep" not found.
+[Wed Feb 29 19:44:50 2012] [debug] Nothing has been rendered, assuming delayed response.
+[Wed Feb 29 19:45:16 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 19:45:16 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 19:45:16 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 19:45:16 2012] [debug] Template "viewer/initial.html.ep" not found.
+[Wed Feb 29 19:45:16 2012] [debug] Nothing has been rendered, assuming delayed response.
+[Wed Feb 29 19:45:36 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 19:45:36 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 19:45:36 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 19:45:36 2012] [debug] Template "viewer/initial.html.ep" not found.
+[Wed Feb 29 19:45:36 2012] [debug] Nothing has been rendered, assuming delayed response.
+[Wed Feb 29 19:45:51 2012] [error] Inactivity timeout.
+[Wed Feb 29 19:46:16 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 19:46:16 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 19:46:16 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 19:46:16 2012] [debug] Template "viewer/initial.html.ep" not found.
+[Wed Feb 29 19:46:16 2012] [debug] Nothing has been rendered, assuming delayed response.
+[Wed Feb 29 19:46:23 2012] [info] Server listening (http://*:3000)
+[Wed Feb 29 19:47:41 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 19:47:41 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 19:47:41 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 19:47:41 2012] [debug] Template "viewer/initial.html.ep" not found.
+[Wed Feb 29 19:47:41 2012] [debug] Nothing has been rendered, assuming delayed response.
+[Wed Feb 29 19:47:57 2012] [error] Inactivity timeout.
+[Wed Feb 29 19:48:09 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 19:48:09 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 19:48:09 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 19:48:09 2012] [debug] Template "viewer/initial.html.ep" not found.
+[Wed Feb 29 19:48:09 2012] [debug] Nothing has been rendered, assuming delayed response.
+[Wed Feb 29 19:48:24 2012] [error] Inactivity timeout.
+[Wed Feb 29 19:56:56 2012] [info] Server listening (http://*:3000)
+[Wed Feb 29 19:56:59 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 19:56:59 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 19:56:59 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 19:56:59 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 19:56:59 2012] [error] Global symbol "$item" requires explicit package name at template "viewer/directoryview.html.ep" line 6, near "                {".
+Global symbol "@list_directories" requires explicit package name at template "viewer/directoryview.html.ep" line 6, near "                {".
+Global symbol "$item" requires explicit package name at template "viewer/directoryview.html.ep" line 8, near "                }".
+1: % layout 'default';
+2: % title 'Welcome';
+3: <h2><%= $message %></h2>
+4: <ul>
+5:         <%
+6:                 foreach $item(@list_directories)
+7:                 {
+8:                         %><li><%= $item%></li><%
+9:                 }
+10:         %>
+11: </ul>
+
+[Wed Feb 29 19:56:59 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Feb 29 19:56:59 2012] [debug] Template "exception.html.ep" not found.
+[Wed Feb 29 19:56:59 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:56:59 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:56:59 2012] [debug] 500 Internal Server Error (0.031368s, 31.880/s).
+[Wed Feb 29 19:58:20 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 19:58:20 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 19:58:20 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 19:58:20 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 19:58:20 2012] [error] Global symbol "@list_directories" requires explicit package name at template "viewer/directoryview.html.ep" line 7, near "                {".
+2: % title 'Welcome';
+3: <h2><%= $message %></h2>
+4: <ul>
+5:         <%
+6:                 my $item;
+7:                 foreach $item(@list_directories)
+8:                 {
+9:                         %><li><%= $item%></li><%
+10:                 }
+11:         %>
+12: </ul>
+
+[Wed Feb 29 19:58:20 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Feb 29 19:58:20 2012] [debug] Template "exception.html.ep" not found.
+[Wed Feb 29 19:58:20 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:58:20 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:58:20 2012] [debug] 500 Internal Server Error (0.028118s, 35.564/s).
+[Wed Feb 29 19:58:36 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 19:58:36 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 19:58:36 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 19:58:36 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 19:58:36 2012] [error] Global symbol "@list_directories" requires explicit package name at template "viewer/directoryview.html.ep" line 7, near "                {".
+2: % title 'Welcome';
+3: <h2><%= $message %></h2>
+4: <ul>
+5:         <%
+6:                 my $item;
+7:                 foreach $item(@list_directories)
+8:                 {
+9:                         %><li><%= $item %></li><%
+10:                 }
+11:         %>
+12: </ul>
+
+[Wed Feb 29 19:58:36 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Feb 29 19:58:36 2012] [debug] Template "exception.html.ep" not found.
+[Wed Feb 29 19:58:36 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:58:36 2012] [debug] Rendering inline template.
+[Wed Feb 29 19:58:36 2012] [debug] 500 Internal Server Error (0.030246s, 33.062/s).
+[Wed Feb 29 20:05:35 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 20:05:35 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:05:35 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:05:35 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 20:05:35 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 20:05:35 2012] [debug] 200 OK (0.018176s, 55.018/s).
+[Wed Feb 29 20:07:06 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 20:07:06 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:07:06 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:07:06 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 20:07:06 2012] [error] Global symbol "$list_directories" requires explicit package name at template "viewer/directoryview.html.ep" line 7, near "                {".
+2: % title 'Welcome';
+3: <h2><%= $message %></h2>
+4: <ul>
+5:         <%
+6:                 my $item;
+7:                 foreach $item($list_directories)
+8:                 {
+9:                         %><li><%= $item %></li><%
+10:                 }
+11:         %>
+12: </ul>
+
+[Wed Feb 29 20:07:06 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Feb 29 20:07:06 2012] [debug] Template "exception.html.ep" not found.
+[Wed Feb 29 20:07:06 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:07:06 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:07:06 2012] [debug] 500 Internal Server Error (0.030528s, 32.757/s).
+[Wed Feb 29 20:07:36 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 20:07:36 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:07:36 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:07:36 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 20:07:36 2012] [error] Global symbol "@directories" requires explicit package name at template "viewer/directoryview.html.ep" line 7, near "                {".
+2: % title 'Welcome';
+3: <h2><%= $message %></h2>
+4: <ul>
+5:         <%
+6:                 my $item;
+7:                 foreach $item(@directories)
+8:                 {
+9:                         %><li><%= $item %></li><%
+10:                 }
+11:         %>
+12: </ul>
+
+[Wed Feb 29 20:07:36 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Feb 29 20:07:36 2012] [debug] Template "exception.html.ep" not found.
+[Wed Feb 29 20:07:36 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:07:36 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:07:36 2012] [debug] 500 Internal Server Error (0.028164s, 35.506/s).
+[Wed Feb 29 20:07:49 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 20:07:49 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:07:49 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:07:49 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 20:07:49 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 20:07:49 2012] [debug] 200 OK (0.008209s, 121.818/s).
+[Wed Feb 29 20:08:14 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 20:08:14 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:08:14 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:08:14 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 20:08:14 2012] [error] Global symbol "@directories" requires explicit package name at template "viewer/directoryview.html.ep" line 7, near "                {".
+2: % title 'Welcome';
+3: <h2><%= $message %></h2>
+4: <ul>
+5:         <%
+6:                 my $item;
+7:                 foreach $item(@directories)
+8:                 {
+9:                         %><li><%= $item %></li><%
+10:                 }
+11:         %>
+12: </ul>
+
+[Wed Feb 29 20:08:14 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Feb 29 20:08:14 2012] [debug] Template "exception.html.ep" not found.
+[Wed Feb 29 20:08:14 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:08:15 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:08:15 2012] [debug] 500 Internal Server Error (0.028202s, 35.458/s).
+[Wed Feb 29 20:12:26 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 20:12:26 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:12:26 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:12:26 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 20:12:26 2012] [error] Global symbol "@directories" requires explicit package name at template "viewer/directoryview.html.ep" line 5, near "</ul>".
+1: % layout 'default';
+2: % title 'Welcome';
+3: <h2><%= $message %></h2>
+4: <ul>
+5:         <%= $#directories %>
+6: </ul>
+
+[Wed Feb 29 20:12:26 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Feb 29 20:12:26 2012] [debug] Template "exception.html.ep" not found.
+[Wed Feb 29 20:12:26 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:12:26 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:12:26 2012] [debug] 500 Internal Server Error (0.028870s, 34.638/s).
+[Wed Feb 29 20:13:11 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 20:13:11 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:13:11 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:13:11 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 20:13:11 2012] [error] Global symbol "@directories" requires explicit package name at template "viewer/directoryview.html.ep" line 4.
+1: % layout 'default';
+2: % title 'Welcome';
+3: <h2><%= $message %></h2>
+4: <%= $#directories %>
+
+[Wed Feb 29 20:13:11 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Feb 29 20:13:11 2012] [debug] Template "exception.html.ep" not found.
+[Wed Feb 29 20:13:11 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:13:11 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:13:11 2012] [debug] 500 Internal Server Error (0.030560s, 32.723/s).
+[Wed Feb 29 20:18:14 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 20:18:14 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:18:14 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:18:14 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 20:18:14 2012] [error] Global symbol "@directories" requires explicit package name at template "viewer/directoryview.html.ep" line 4.
+1: % layout 'default';
+2: % title 'Welcome';
+3: <h2><%= $message %></h2>
+4: <%= $#directories %>
+
+[Wed Feb 29 20:18:14 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Feb 29 20:18:14 2012] [debug] Template "exception.html.ep" not found.
+[Wed Feb 29 20:18:14 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:18:14 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:18:14 2012] [debug] 500 Internal Server Error (0.027583s, 36.254/s).
+[Wed Feb 29 20:19:16 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 20:19:16 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:19:16 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:19:16 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 20:19:16 2012] [error] Global symbol "@directories" requires explicit package name at template "viewer/directoryview.html.ep" line 4.
+1: % layout 'default';
+2: % title 'Welcome';
+3: <h2><%= $message %></h2>
+4: <%= $#directories %>
+
+[Wed Feb 29 20:19:16 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Feb 29 20:19:16 2012] [debug] Template "exception.html.ep" not found.
+[Wed Feb 29 20:19:16 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:19:16 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:19:16 2012] [debug] 500 Internal Server Error (0.030120s, 33.201/s).
+[Wed Feb 29 20:20:58 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 20:20:58 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:20:58 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:20:58 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 20:20:58 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 20:20:58 2012] [debug] 200 OK (0.008012s, 124.813/s).
+[Wed Feb 29 20:21:07 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 20:21:07 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:21:07 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:21:07 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 20:21:07 2012] [error] Global symbol "@directories" requires explicit package name at template "viewer/directoryview.html.ep" line 4.
+1: % layout 'default';
+2: % title 'Welcome';
+3: <h2><%= $message %></h2>
+4: <%= @directories %>
+
+[Wed Feb 29 20:21:07 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Feb 29 20:21:07 2012] [debug] Template "exception.html.ep" not found.
+[Wed Feb 29 20:21:07 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:21:07 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:21:07 2012] [debug] 500 Internal Server Error (0.027366s, 36.542/s).
+[Wed Feb 29 20:23:48 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 20:23:48 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:23:48 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:23:48 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 20:23:48 2012] [error] Global symbol "%stash" requires explicit package name at template "viewer/directoryview.html.ep" line 4.
+1: % layout 'default';
+2: % title 'Welcome';
+3: <h2><%= $message %></h2>
+4: <%= $stash{directories} %>
+
+[Wed Feb 29 20:23:48 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Feb 29 20:23:48 2012] [debug] Template "exception.html.ep" not found.
+[Wed Feb 29 20:23:48 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:23:48 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:23:49 2012] [debug] 500 Internal Server Error (0.029922s, 33.420/s).
+[Wed Feb 29 20:30:47 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 20:30:47 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:30:47 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:30:47 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 20:30:47 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 20:30:47 2012] [debug] 200 OK (0.007149s, 139.880/s).
+[Wed Feb 29 20:31:26 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 20:31:26 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:31:26 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:31:26 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 20:31:26 2012] [error] Global symbol "@files" requires explicit package name at template "viewer/directoryview.html.ep" line 4.
+1: % layout 'default';
+2: % title 'Welcome';
+3: <h2><%= $message %></h2>
+4: <%= $files[1] %>
+
+[Wed Feb 29 20:31:26 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Feb 29 20:31:26 2012] [debug] Template "exception.html.ep" not found.
+[Wed Feb 29 20:31:26 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:31:26 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:31:26 2012] [debug] 500 Internal Server Error (0.028716s, 34.824/s).
+[Wed Feb 29 20:32:16 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 20:32:16 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:32:16 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:32:16 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 20:32:16 2012] [error] Global symbol "%Stash" requires explicit package name at template "viewer/directoryview.html.ep" line 4.
+1: % layout 'default';
+2: % title 'Welcome';
+3: <h2><%= $message %></h2>
+4: <%= $Stash{files} %>
+
+[Wed Feb 29 20:32:16 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Feb 29 20:32:16 2012] [debug] Template "exception.html.ep" not found.
+[Wed Feb 29 20:32:16 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:32:16 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:32:16 2012] [debug] 500 Internal Server Error (0.029805s, 33.551/s).
+[Wed Feb 29 20:36:59 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 20:36:59 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:36:59 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:36:59 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 20:36:59 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 20:36:59 2012] [debug] 200 OK (0.007985s, 125.235/s).
+[Wed Feb 29 20:37:07 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 20:37:07 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:37:07 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:37:07 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 20:37:07 2012] [error] Can't use string ("/home/kbut/.directory") as an ARRAY ref while "strict refs" in use at template "viewer/directoryview.html.ep" line 4.
+1: % layout 'default';
+2: % title 'Welcome';
+3: <h2><%= $message %></h2>
+4: <%= $files->[1] %>
+
+[Wed Feb 29 20:37:07 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Feb 29 20:37:07 2012] [debug] Template "exception.html.ep" not found.
+[Wed Feb 29 20:37:07 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:37:07 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:37:07 2012] [debug] 500 Internal Server Error (0.030485s, 32.803/s).
+[Wed Feb 29 20:37:10 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 20:37:10 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:37:10 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:37:10 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 20:37:10 2012] [error] Can't use string ("/home/kbut/.directory") as an ARRAY ref while "strict refs" in use at template "viewer/directoryview.html.ep" line 4.
+1: % layout 'default';
+2: % title 'Welcome';
+3: <h2><%= $message %></h2>
+4: <%= $files->[1] %>
+
+[Wed Feb 29 20:37:10 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Feb 29 20:37:10 2012] [debug] Template "exception.html.ep" not found.
+[Wed Feb 29 20:37:10 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:37:10 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:37:10 2012] [debug] 500 Internal Server Error (0.027684s, 36.122/s).
+[Wed Feb 29 20:37:46 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 20:37:46 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:37:46 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:37:46 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 20:37:46 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 20:37:46 2012] [debug] 200 OK (0.007110s, 140.647/s).
+[Wed Feb 29 20:37:53 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 20:37:53 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:37:53 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:37:53 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 20:37:53 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 20:37:53 2012] [debug] 200 OK (0.008235s, 121.433/s).
+[Wed Feb 29 20:38:55 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 20:38:55 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:38:55 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:38:55 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 20:38:55 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 20:38:55 2012] [debug] 200 OK (0.008668s, 115.367/s).
+[Wed Feb 29 20:49:54 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 20:49:54 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:49:54 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:49:54 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 20:49:54 2012] [error] Can't use string ("/home/kbut/usb") as an ARRAY ref while "strict refs" in use at template "viewer/directoryview.html.ep" line 7, near "                {".
+2: % title 'Welcome';
+3: <h2><%= $message %></h2>
+4: <ul>
+5:         <%
+6:                 my $item;
+7:                 foreach $item(@$directories)
+8:                 {
+9:                         %><li><%= $item %></li><%
+10:                 }
+11:         %>
+12: </ul>
+
+[Wed Feb 29 20:49:54 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Feb 29 20:49:54 2012] [debug] Template "exception.html.ep" not found.
+[Wed Feb 29 20:49:54 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:49:54 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:49:54 2012] [debug] 500 Internal Server Error (0.030402s, 32.893/s).
+[Wed Feb 29 20:51:49 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 20:51:49 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:51:49 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:51:49 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 20:51:49 2012] [error] Can't use string ("/home/kbut/.directory") as an ARRAY ref while "strict refs" in use at template "viewer/directoryview.html.ep" line 7, near "                {".
+2: % title 'Welcome';
+3: <h2><%= $message %></h2>
+4: <ul>
+5:         <%
+6:                 my $item;
+7:                 foreach $item(@$files)
+8:                 {
+9:                         %><li><%= $item %></li><%
+10:                 }
+11:         %>
+12: </ul>
+
+[Wed Feb 29 20:51:49 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Feb 29 20:51:49 2012] [debug] Template "exception.html.ep" not found.
+[Wed Feb 29 20:51:49 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:51:49 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:51:49 2012] [debug] 500 Internal Server Error (0.030668s, 32.607/s).
+[Wed Feb 29 20:51:59 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 20:51:59 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:51:59 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:51:59 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 20:51:59 2012] [error] Can't use string ("/home/kbut/usb") as an ARRAY ref while "strict refs" in use at template "viewer/directoryview.html.ep" line 7, near "                {".
+2: % title 'Welcome';
+3: <h2><%= $message %></h2>
+4: <ul>
+5:         <%
+6:                 my $item;
+7:                 foreach $item(@$directories)
+8:                 {
+9:                         %><li><%= $item %></li><%
+10:                 }
+11:         %>
+12: </ul>
+
+[Wed Feb 29 20:51:59 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Feb 29 20:51:59 2012] [debug] Template "exception.html.ep" not found.
+[Wed Feb 29 20:51:59 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:51:59 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:51:59 2012] [debug] 500 Internal Server Error (0.030951s, 32.309/s).
+[Wed Feb 29 20:52:44 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 20:52:44 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:52:44 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:52:44 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 20:52:44 2012] [error] Can't use string ("/home/kbut/usb") as an ARRAY ref while "strict refs" in use at template "viewer/directoryview.html.ep" line 7, near "                {".
+2: % title 'Welcome';
+3: <h2><%= $message %></h2>
+4: <ul>
+5:         <%
+6:                 my $item;
+7:                 foreach $item(@$directories)
+8:                 {
+9:                         %><li><%= $item %></li><%
+10:                 }
+11:         %>
+12: </ul>
+
+[Wed Feb 29 20:52:44 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Feb 29 20:52:44 2012] [debug] Template "exception.html.ep" not found.
+[Wed Feb 29 20:52:44 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:52:44 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:52:44 2012] [debug] 500 Internal Server Error (0.030171s, 33.144/s).
+[Wed Feb 29 20:53:07 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 20:53:07 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:53:07 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:53:07 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 20:53:07 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 20:53:07 2012] [debug] 200 OK (0.007942s, 125.913/s).
+[Wed Feb 29 20:53:16 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 20:53:16 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:53:16 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:53:16 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 20:53:16 2012] [error] Can't use global $2 in "my" at template "viewer/directoryview.html.ep" line 1, near "% title 'Welcome';".
+1: % layout 'default';
+2: % title 'Welcome';
+3: <h2><%= $message %></h2>
+4: <ul>
+5:         <%
+6:                 my $item;
+
+[Wed Feb 29 20:53:16 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Feb 29 20:53:16 2012] [debug] Template "exception.html.ep" not found.
+[Wed Feb 29 20:53:16 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:53:16 2012] [error] Can't use global $2 in "my" at inline template line 1, near "<html>".
+1: <!DOCTYPE html>
+2: <html>
+3:   <head>
+4:     <title>Server error</title>
+5:     <meta http-equiv="Pragma" content="no-cache">
+6:     <meta http-equiv="Expires" content="-1">
+
+[Wed Feb 29 20:53:16 2012] [debug] 500 Internal Server Error (0.017270s, 57.904/s).
+[Wed Feb 29 20:53:17 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:53:17 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:53:17 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 20:53:17 2012] [error] Can't use global $2 in "my" at template "viewer/directoryview.html.ep" line 1, near "% title 'Welcome';".
+1: % layout 'default';
+2: % title 'Welcome';
+3: <h2><%= $message %></h2>
+4: <ul>
+5:         <%
+6:                 my $item;
+
+[Wed Feb 29 20:53:17 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Feb 29 20:53:17 2012] [debug] Template "exception.html.ep" not found.
+[Wed Feb 29 20:53:17 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:53:17 2012] [error] Can't use global $2 in "my" at inline template line 1, near "<html>".
+1: <!DOCTYPE html>
+2: <html>
+3:   <head>
+4:     <title>Server error</title>
+5:     <meta http-equiv="Pragma" content="no-cache">
+6:     <meta http-equiv="Expires" content="-1">
+
+[Wed Feb 29 20:53:17 2012] [debug] 500 Internal Server Error (0.014415s, 69.372/s).
+[Wed Feb 29 20:53:36 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 20:53:36 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:53:36 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:53:36 2012] [error] Global symbol "$list_directories" requires explicit package name at script/../lib/Yamc/Viewer.pm line 21.
+Compilation failed in require at (eval 231) line 1.
+
+[Wed Feb 29 20:53:36 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Feb 29 20:53:36 2012] [debug] Template "exception.html.ep" not found.
+[Wed Feb 29 20:53:36 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:53:36 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:53:36 2012] [debug] 500 Internal Server Error (0.026568s, 37.639/s).
+[Wed Feb 29 20:54:21 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 20:54:21 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:54:21 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:54:21 2012] [error] Global symbol "$list_directories" requires explicit package name at script/../lib/Yamc/Viewer.pm line 21.
+Compilation failed in require at (eval 231) line 1.
+
+[Wed Feb 29 20:54:21 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Feb 29 20:54:21 2012] [debug] Template "exception.html.ep" not found.
+[Wed Feb 29 20:54:21 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:54:21 2012] [debug] Rendering inline template.
+[Wed Feb 29 20:54:21 2012] [debug] 500 Internal Server Error (0.026224s, 38.133/s).
+[Wed Feb 29 20:54:28 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 20:54:28 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:54:28 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:54:28 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 20:54:28 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 20:54:28 2012] [debug] 200 OK (0.007536s, 132.696/s).
+[Wed Feb 29 20:54:49 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 20:54:49 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:54:49 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:54:49 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 20:54:49 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 20:54:49 2012] [debug] 200 OK (0.007807s, 128.090/s).
+[Wed Feb 29 20:55:42 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 20:55:42 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:55:42 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:55:42 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 20:55:42 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 20:55:42 2012] [debug] 200 OK (0.008525s, 117.302/s).
+[Wed Feb 29 20:57:43 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 20:57:43 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 20:57:43 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 20:57:43 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 20:57:43 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 20:57:43 2012] [debug] 200 OK (0.008829s, 113.263/s).
+[Wed Feb 29 21:07:12 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 21:07:12 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 21:07:12 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 21:07:12 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 21:07:12 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 21:07:12 2012] [debug] 200 OK (0.008478s, 117.952/s).
+[Wed Feb 29 21:07:13 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 21:07:13 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 21:07:13 2012] [debug] 200 OK (0.001918s, 521.376/s).
+[Wed Feb 29 21:07:13 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 21:07:13 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 21:07:13 2012] [debug] 200 OK (0.001708s, 585.480/s).
+[Wed Feb 29 21:36:30 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 21:36:30 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 21:36:30 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 21:36:30 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 21:36:30 2012] [error] syntax error at template "viewer/directoryview.html.ep" line 14, near "                }".
+9:                 {
+10:                         my $hidden = "";
+11:                         if ($item =~ m/^\./){
+12:                                 $hidden = "class='hidden'";
+13:                                 }
+14:                         %><li <%= =>><%= $item %></li><%
+15:                 }
+16:         %>
+17: </ul>
+18: <h3>Files</h3>
+19: <ul>
+
+[Wed Feb 29 21:36:30 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Feb 29 21:36:30 2012] [debug] Template "exception.html.ep" not found.
+[Wed Feb 29 21:36:30 2012] [debug] Rendering inline template.
+[Wed Feb 29 21:36:30 2012] [debug] Rendering inline template.
+[Wed Feb 29 21:36:30 2012] [debug] 500 Internal Server Error (0.031184s, 32.068/s).
+[Wed Feb 29 21:37:14 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 21:37:14 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 21:37:14 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 21:37:14 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 21:37:14 2012] [error] syntax error at template "viewer/directoryview.html.ep" line 12, near "".
+                                $hidden "
+syntax error at template "viewer/directoryview.html.ep" line 14, near "                }".
+7:                 my $item;
+8:                 foreach $item(@$directories)
+9:                 {
+10:                         my $hidden = "";
+11:                         if ( $item =~ m/^\./ )
+12:                                 $hidden = "class='hidden'";
+13: 
+14:                         %><li <%= =>><%= $item %></li><%
+15:                 }
+16:         %>
+17: </ul>
+
+[Wed Feb 29 21:37:14 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Feb 29 21:37:14 2012] [debug] Template "exception.html.ep" not found.
+[Wed Feb 29 21:37:14 2012] [debug] Rendering inline template.
+[Wed Feb 29 21:37:14 2012] [debug] Rendering inline template.
+[Wed Feb 29 21:37:14 2012] [debug] 500 Internal Server Error (0.031236s, 32.014/s).
+[Wed Feb 29 21:37:29 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 21:37:29 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 21:37:29 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 21:37:29 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 21:37:29 2012] [error] syntax error at template "viewer/directoryview.html.ep" line 12, near "".
+                                $hidden "
+syntax error at template "viewer/directoryview.html.ep" line 14, near "                }".
+7:                 my $item;
+8:                 foreach $item(@$directories)
+9:                 {
+10:                         my $hidden = "";
+11:                         if ( $item =~ m/^\./ )
+12:                                 $hidden = 'class="hidden"';
+13: 
+14:                         %><li <%= =>><%= $item %></li><%
+15:                 }
+16:         %>
+17: </ul>
+
+[Wed Feb 29 21:37:29 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Feb 29 21:37:29 2012] [debug] Template "exception.html.ep" not found.
+[Wed Feb 29 21:37:29 2012] [debug] Rendering inline template.
+[Wed Feb 29 21:37:29 2012] [debug] Rendering inline template.
+[Wed Feb 29 21:37:29 2012] [debug] 500 Internal Server Error (0.028626s, 34.933/s).
+[Wed Feb 29 21:38:26 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 21:38:26 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 21:38:26 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 21:38:26 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 21:38:26 2012] [error] syntax error at template "viewer/directoryview.html.ep" line 12, near "".
+                                $hidden "
+7:                 my $item;
+8:                 foreach $item(@$directories)
+9:                 {
+10:                         my $hidden = "";
+11:                         if ( $item =~ m/^\./ )
+12:                                 $hidden = 'class="hidden"';
+13: 
+14:                         %><li <%= $hidden %>><%= $item %></li><%
+15:                 }
+16:         %>
+17: </ul>
+
+[Wed Feb 29 21:38:26 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Feb 29 21:38:26 2012] [debug] Template "exception.html.ep" not found.
+[Wed Feb 29 21:38:26 2012] [debug] Rendering inline template.
+[Wed Feb 29 21:38:26 2012] [debug] Rendering inline template.
+[Wed Feb 29 21:38:26 2012] [debug] 500 Internal Server Error (0.031369s, 31.879/s).
+[Wed Feb 29 21:39:06 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 21:39:06 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 21:39:06 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 21:39:06 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 21:39:06 2012] [error] syntax error at template "viewer/directoryview.html.ep" line 12, near "".
+                                $hidden "
+7:                 my $item;
+8:                 foreach $item(@$directories)
+9:                 {
+10:                         my $hidden = "";
+11:                         if ( $item =~ m/^a/ )
+12:                                 $hidden = 'class="hidden"';
+13: 
+14:                         %><li <%= $hidden %>><%= $item %></li><%
+15:                 }
+16:         %>
+17: </ul>
+
+[Wed Feb 29 21:39:06 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Feb 29 21:39:06 2012] [debug] Template "exception.html.ep" not found.
+[Wed Feb 29 21:39:06 2012] [debug] Rendering inline template.
+[Wed Feb 29 21:39:06 2012] [debug] Rendering inline template.
+[Wed Feb 29 21:39:06 2012] [debug] 500 Internal Server Error (0.032400s, 30.864/s).
+[Wed Feb 29 21:39:07 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 21:39:07 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 21:39:07 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 21:39:07 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 21:39:07 2012] [error] syntax error at template "viewer/directoryview.html.ep" line 12, near "".
+                                $hidden "
+7:                 my $item;
+8:                 foreach $item(@$directories)
+9:                 {
+10:                         my $hidden = "";
+11:                         if ( $item =~ m/^a/ )
+12:                                 $hidden = 'class="hidden"';
+13: 
+14:                         %><li <%= $hidden %>><%= $item %></li><%
+15:                 }
+16:         %>
+17: </ul>
+
+[Wed Feb 29 21:39:07 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Feb 29 21:39:07 2012] [debug] Template "exception.html.ep" not found.
+[Wed Feb 29 21:39:07 2012] [debug] Rendering inline template.
+[Wed Feb 29 21:39:07 2012] [debug] Rendering inline template.
+[Wed Feb 29 21:39:07 2012] [debug] 500 Internal Server Error (0.030551s, 32.732/s).
+[Wed Feb 29 21:39:25 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 21:39:25 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 21:39:25 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 21:39:25 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 21:39:25 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 21:39:25 2012] [debug] 200 OK (0.009105s, 109.830/s).
+[Wed Feb 29 21:39:56 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 21:39:56 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 21:39:56 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 21:39:56 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 21:39:56 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 21:39:56 2012] [debug] 200 OK (0.009377s, 106.644/s).
+[Wed Feb 29 21:41:40 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 21:41:40 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 21:41:40 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 21:41:40 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 21:41:40 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 21:41:40 2012] [debug] 200 OK (0.008230s, 121.507/s).
+[Wed Feb 29 21:44:14 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 21:44:14 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 21:44:14 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 21:44:14 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 21:44:14 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 21:44:14 2012] [debug] 200 OK (0.009068s, 110.278/s).
+[Wed Feb 29 21:44:16 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 21:44:16 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 21:44:16 2012] [debug] 200 OK (0.001940s, 515.464/s).
+[Wed Feb 29 21:44:16 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 21:44:16 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 21:44:16 2012] [debug] 200 OK (0.001749s, 571.755/s).
+[Wed Feb 29 21:44:16 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 21:44:16 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 21:44:16 2012] [debug] 200 OK (0.001839s, 543.774/s).
+[Wed Feb 29 21:44:17 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 21:44:17 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 21:44:17 2012] [debug] 200 OK (0.001945s, 514.139/s).
+[Wed Feb 29 21:44:39 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 21:44:39 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 21:44:39 2012] [debug] 200 OK (0.001942s, 514.933/s).
+[Wed Feb 29 21:45:40 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 21:45:40 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 21:45:40 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 21:45:40 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 21:45:40 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 21:45:40 2012] [debug] 200 OK (0.008355s, 119.689/s).
+[Wed Feb 29 21:45:56 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 21:45:56 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 21:45:56 2012] [debug] 200 OK (0.001953s, 512.033/s).
+[Wed Feb 29 21:47:29 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 21:47:29 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 21:47:29 2012] [debug] 200 OK (0.001939s, 515.730/s).
+[Wed Feb 29 21:51:58 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 21:51:58 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 21:51:58 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 21:51:58 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 21:51:58 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 21:51:58 2012] [debug] 200 OK (0.009179s, 108.944/s).
+[Wed Feb 29 22:25:30 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 22:25:30 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:25:30 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 22:25:30 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 22:25:30 2012] [error] syntax error at template "viewer/directoryview.html.ep" line 15, near "                }".
+10:                         my $hidden = "";
+11:                         if ( $item =~ m/^\./ ){
+12:                                 $hidden = "class='hidden'";
+13:                                 }
+14: 
+15:                         %><li <%== $hidden %>><a href="view/<%= $basepath."/"$item %>"><%= $item %></a></li><%
+16:                 }
+17:         %>
+18: </ul>
+19: <h3>Files</h3>
+20: <ul>
+
+[Wed Feb 29 22:25:30 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Feb 29 22:25:30 2012] [debug] Template "exception.html.ep" not found.
+[Wed Feb 29 22:25:30 2012] [debug] Rendering inline template.
+[Wed Feb 29 22:25:30 2012] [debug] Rendering inline template.
+[Wed Feb 29 22:25:30 2012] [debug] 500 Internal Server Error (0.028962s, 34.528/s).
+[Wed Feb 29 22:25:54 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 22:25:54 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:25:54 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 22:25:54 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 22:25:54 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 22:25:54 2012] [debug] 200 OK (0.008925s, 112.045/s).
+[Wed Feb 29 22:25:57 2012] [debug] GET /view//home/kbut/compartidos (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:25:57 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:25:57 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 22:25:57 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 22:25:57 2012] [debug] 200 OK (0.006224s, 160.668/s).
+[Wed Feb 29 22:25:57 2012] [debug] GET /view//home/kbut/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:25:57 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:25:57 2012] [debug] 200 OK (0.001623s, 616.143/s).
+[Wed Feb 29 22:26:01 2012] [debug] GET /view//home/kbut/cosaskbut (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:26:01 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:26:01 2012] [debug] 200 OK (0.001645s, 607.903/s).
+[Wed Feb 29 22:26:01 2012] [debug] GET /view//home/kbut/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:26:01 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:26:01 2012] [debug] 200 OK (0.001194s, 837.521/s).
+[Wed Feb 29 22:26:05 2012] [debug] GET /view//home/kbut/cosastere (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:26:05 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:26:05 2012] [debug] 200 OK (0.001399s, 714.796/s).
+[Wed Feb 29 22:26:05 2012] [debug] GET /view//home/kbut/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:26:05 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:26:05 2012] [debug] 200 OK (0.001136s, 880.282/s).
+[Wed Feb 29 22:26:10 2012] [debug] GET /view//home/kbut/definitivo (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:26:10 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:26:10 2012] [debug] 200 OK (0.001410s, 709.220/s).
+[Wed Feb 29 22:26:10 2012] [debug] GET /view//home/kbut/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:26:10 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:26:10 2012] [debug] 200 OK (0.001306s, 765.697/s).
+[Wed Feb 29 22:26:16 2012] [debug] GET /view//home/kbut/definitivo (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:26:16 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:26:16 2012] [debug] 200 OK (0.001294s, 772.798/s).
+[Wed Feb 29 22:26:17 2012] [debug] GET /view//home/kbut/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:26:17 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:26:17 2012] [debug] 200 OK (0.001201s, 832.639/s).
+[Wed Feb 29 22:26:25 2012] [debug] GET /view/home/kbut/definitivo (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:26:25 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:26:25 2012] [debug] 200 OK (0.001583s, 631.712/s).
+[Wed Feb 29 22:26:25 2012] [debug] GET /view/home/kbut/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:26:25 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:26:25 2012] [debug] 200 OK (0.001657s, 603.500/s).
+[Wed Feb 29 22:27:30 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 22:27:30 2012] [debug] GET /view//home/kbut/compartidos (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:27:30 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:27:30 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 22:27:30 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 22:27:30 2012] [debug] 200 OK (0.008666s, 115.393/s).
+[Wed Feb 29 22:27:30 2012] [debug] GET /view//home/kbut/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:27:30 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:27:30 2012] [debug] 200 OK (0.001645s, 607.903/s).
+[Wed Feb 29 22:27:34 2012] [debug] GET /view//home/kbut/cosaskbut (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:27:34 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:27:34 2012] [debug] 200 OK (0.001361s, 734.754/s).
+[Wed Feb 29 22:27:34 2012] [debug] GET /view//home/kbut/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:27:34 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:27:34 2012] [debug] 200 OK (0.001301s, 768.640/s).
+[Wed Feb 29 22:27:37 2012] [debug] GET /view//home/kbut/cosastere (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:27:37 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:27:37 2012] [debug] 200 OK (0.001596s, 626.566/s).
+[Wed Feb 29 22:27:37 2012] [debug] GET /view//home/kbut/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:27:37 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:27:37 2012] [debug] 200 OK (0.001390s, 719.424/s).
+[Wed Feb 29 22:27:55 2012] [debug] GET /view//home/kbut/compartidos (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:27:55 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:27:55 2012] [debug] 200 OK (0.001265s, 790.514/s).
+[Wed Feb 29 22:27:55 2012] [debug] GET /view//home/kbut/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:27:55 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:27:55 2012] [debug] 200 OK (0.001241s, 805.802/s).
+[Wed Feb 29 22:27:58 2012] [debug] GET /view/home/kbut/compartidos (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:27:58 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:27:58 2012] [debug] 200 OK (0.001621s, 616.903/s).
+[Wed Feb 29 22:27:58 2012] [debug] GET /view/home/kbut/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:27:58 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:27:58 2012] [debug] 200 OK (0.001625s, 615.385/s).
+[Wed Feb 29 22:28:24 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 22:28:24 2012] [debug] GET /view/home/kbut/compartidos (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:28:24 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:28:24 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 22:28:24 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 22:28:24 2012] [debug] 200 OK (0.008625s, 115.942/s).
+[Wed Feb 29 22:28:24 2012] [debug] GET /view/home/kbut/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:28:24 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:28:24 2012] [debug] 200 OK (0.001680s, 595.238/s).
+[Wed Feb 29 22:28:39 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 22:28:39 2012] [debug] GET /view/home/kbut/compartidos (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:28:39 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:28:39 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 22:28:39 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 22:28:39 2012] [debug] 200 OK (0.008547s, 117.000/s).
+[Wed Feb 29 22:28:39 2012] [debug] GET /view/home/kbut/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:28:39 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:28:39 2012] [debug] 200 OK (0.001644s, 608.273/s).
+[Wed Feb 29 22:28:57 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 22:28:57 2012] [debug] GET /view/home/kbut/compartidos (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:28:57 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:28:57 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 22:28:57 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 22:28:57 2012] [debug] 200 OK (0.007865s, 127.146/s).
+[Wed Feb 29 22:28:57 2012] [debug] GET /view/home/kbut/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:28:57 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:28:57 2012] [debug] 200 OK (0.001626s, 615.006/s).
+[Wed Feb 29 22:30:28 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 22:30:28 2012] [debug] GET /view/home/kbut/compartidos (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:30:28 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:30:28 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 22:30:28 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 22:30:28 2012] [debug] 200 OK (0.008892s, 112.461/s).
+[Wed Feb 29 22:30:28 2012] [debug] GET /view/home/kbut/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:30:28 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:30:28 2012] [debug] 200 OK (0.001479s, 676.133/s).
+[Wed Feb 29 22:30:42 2012] [debug] GET /view//home/kbut/compartidos (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:30:42 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:30:49 2012] [debug] 200 OK (7.154973s, 0.140/s).
+[Wed Feb 29 22:30:50 2012] [debug] GET /view//home/kbut/Cthulhu (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:30:50 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:30:50 2012] [debug] 200 OK (0.013645s, 73.287/s).
+[Wed Feb 29 22:30:50 2012] [debug] GET /view//home/kbut/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:30:50 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:30:50 2012] [debug] 200 OK (0.001648s, 606.796/s).
+[Wed Feb 29 22:30:54 2012] [debug] GET /view//home/kbut/compartidos (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:30:54 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:30:54 2012] [debug] 200 OK (0.004292s, 232.992/s).
+[Wed Feb 29 22:30:54 2012] [debug] GET /view//home/kbut/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:30:54 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:30:54 2012] [debug] 200 OK (0.001299s, 769.823/s).
+[Wed Feb 29 22:31:04 2012] [debug] GET /view//home/kbut/view//home/kbut/compartidos/Cocinas (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:31:04 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:31:04 2012] [debug] 200 OK (0.001386s, 721.501/s).
+[Wed Feb 29 22:31:04 2012] [debug] GET /view//home/kbut/view//home/kbut/compartidos/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:31:04 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:31:04 2012] [debug] 200 OK (0.001678s, 595.948/s).
+[Wed Feb 29 22:31:08 2012] [debug] GET /view//home/kbut/view//home/kbut/compartidos/Cuenta%20Premium%20Megaupload (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:31:08 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:31:08 2012] [debug] 200 OK (0.001627s, 614.628/s).
+[Wed Feb 29 22:31:08 2012] [debug] GET /view//home/kbut/view//home/kbut/compartidos/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:31:08 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:31:08 2012] [debug] 200 OK (0.001306s, 765.697/s).
+[Wed Feb 29 22:31:10 2012] [debug] GET /view//home/kbut/view//home/kbut/compartidos/Fotos (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:31:10 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:31:10 2012] [debug] 200 OK (0.001407s, 710.732/s).
+[Wed Feb 29 22:31:10 2012] [debug] GET /view//home/kbut/view//home/kbut/compartidos/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:31:10 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:31:10 2012] [debug] 200 OK (0.001193s, 838.223/s).
+[Wed Feb 29 22:31:18 2012] [debug] GET /view//home/kbut/view//home/kbut/compartidos/FOTOS%20DE%20TERESA-863%20FOTOS (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:31:18 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:31:18 2012] [debug] 200 OK (0.001622s, 616.523/s).
+[Wed Feb 29 22:31:18 2012] [debug] GET /view//home/kbut/view//home/kbut/compartidos/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:31:18 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:31:18 2012] [debug] 200 OK (0.001378s, 725.689/s).
+[Wed Feb 29 22:31:25 2012] [debug] GET /view//home/kbut/view//home/kbut/compartidos/Fotos%20Raul%20Escaneadas (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:31:25 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:31:25 2012] [debug] 200 OK (0.001382s, 723.589/s).
+[Wed Feb 29 22:31:25 2012] [debug] GET /view//home/kbut/view//home/kbut/compartidos/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:31:25 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:31:25 2012] [debug] 200 OK (0.001383s, 723.066/s).
+[Wed Feb 29 22:31:30 2012] [debug] GET /view//home/kbut/Descargas (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:31:30 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:31:30 2012] [debug] 200 OK (0.013061s, 76.564/s).
+[Wed Feb 29 22:31:30 2012] [debug] GET /view//home/kbut/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:31:30 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:31:30 2012] [debug] 200 OK (0.001280s, 781.250/s).
+[Wed Feb 29 22:31:33 2012] [debug] GET /view//home/kbut/desura (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:31:33 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:31:33 2012] [debug] 200 OK (0.012933s, 77.322/s).
+[Wed Feb 29 22:31:33 2012] [debug] GET /view//home/kbut/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:31:33 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:31:33 2012] [debug] 200 OK (0.001187s, 842.460/s).
+[Wed Feb 29 22:31:36 2012] [debug] GET /view//home/kbut/cosastere (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:31:36 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:31:36 2012] [debug] 200 OK (0.057408s, 17.419/s).
+[Wed Feb 29 22:31:36 2012] [debug] GET /view//home/kbut/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:31:36 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:31:36 2012] [debug] 200 OK (0.001133s, 882.613/s).
+[Wed Feb 29 22:31:38 2012] [debug] GET /view//home/kbut/view//home/kbut/cosastere/Audiolibros (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:31:38 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:31:38 2012] [debug] 200 OK (0.001552s, 644.330/s).
+[Wed Feb 29 22:31:38 2012] [debug] GET /view//home/kbut/view//home/kbut/cosastere/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 22:31:38 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 22:31:38 2012] [debug] 200 OK (0.001687s, 592.768/s).
+[Wed Feb 29 23:41:24 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 23:41:24 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 23:41:24 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 23:41:24 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 23:41:24 2012] [debug] 200 OK (0.007727s, 129.416/s).
+[Wed Feb 29 23:41:25 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 23:41:25 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 23:41:25 2012] [debug] 200 OK (0.002243s, 445.831/s).
+[Wed Feb 29 23:41:31 2012] [debug] GET /view//home/kbut/devel (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 23:41:31 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 23:41:31 2012] [debug] 200 OK (0.001688s, 592.417/s).
+[Wed Feb 29 23:41:31 2012] [debug] GET /view//home/kbut/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 23:41:31 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 23:41:31 2012] [debug] 200 OK (0.001176s, 850.340/s).
+[Wed Feb 29 23:41:32 2012] [debug] GET /view//home/kbut/view//home/kbut/devel/Blog (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 23:41:32 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 23:41:32 2012] [debug] 200 OK (0.001345s, 743.494/s).
+[Wed Feb 29 23:41:32 2012] [debug] GET /view//home/kbut/view//home/kbut/devel/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 23:41:32 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 23:41:32 2012] [debug] 200 OK (0.001451s, 689.180/s).
+[Wed Feb 29 23:41:57 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 23:41:57 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 23:41:57 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 23:41:57 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 23:41:57 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 23:41:57 2012] [debug] 200 OK (0.009728s, 102.796/s).
+[Wed Feb 29 23:41:58 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 23:41:58 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 23:41:58 2012] [debug] 200 OK (0.002331s, 429.000/s).
+[Wed Feb 29 23:42:00 2012] [debug] GET /view//home/kbut/devel (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 23:42:00 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 23:42:00 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 23:42:00 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 23:42:00 2012] [debug] 200 OK (0.006318s, 158.278/s).
+[Wed Feb 29 23:42:00 2012] [debug] GET /view//home/kbut/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 23:42:00 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 23:42:00 2012] [debug] 200 OK (0.001487s, 672.495/s).
+[Wed Feb 29 23:42:01 2012] [debug] GET /view//home/kbut/view//home/kbut/devel/Blog (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 23:42:01 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 23:42:01 2012] [debug] 200 OK (0.001466s, 682.128/s).
+[Wed Feb 29 23:42:01 2012] [debug] GET /view//home/kbut/view//home/kbut/devel/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 23:42:01 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 23:42:01 2012] [debug] 200 OK (0.001600s, 625.000/s).
+[Wed Feb 29 23:42:43 2012] [debug] GET /view//home/kbut/devel (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 23:42:43 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 23:42:43 2012] [debug] 200 OK (0.001415s, 706.714/s).
+[Wed Feb 29 23:42:43 2012] [debug] GET /view//home/kbut/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 23:42:43 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 23:42:43 2012] [debug] 200 OK (0.001278s, 782.473/s).
+[Wed Feb 29 23:43:34 2012] [debug] GET /view/ (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 23:43:34 2012] [debug] Template "not_found.development.html.ep" not found.
+[Wed Feb 29 23:43:34 2012] [debug] Template "not_found.html.ep" not found.
+[Wed Feb 29 23:43:34 2012] [debug] Rendering inline template.
+[Wed Feb 29 23:43:34 2012] [debug] Rendering inline template.
+[Wed Feb 29 23:43:34 2012] [debug] 404 Not Found (0.017255s, 57.954/s).
+[Wed Feb 29 23:43:41 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 23:43:41 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 23:43:41 2012] [debug] 200 OK (0.002207s, 453.104/s).
+[Wed Feb 29 23:43:48 2012] [debug] GET /view//home/kbut/devel (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 23:43:48 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 23:43:48 2012] [debug] 200 OK (0.001299s, 769.823/s).
+[Wed Feb 29 23:43:48 2012] [debug] GET /view//home/kbut/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 23:43:48 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 23:43:48 2012] [debug] 200 OK (0.001393s, 717.875/s).
+[Wed Feb 29 23:44:34 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 23:44:34 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 23:44:34 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 23:44:34 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 23:44:34 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 23:44:34 2012] [debug] 200 OK (0.009003s, 111.074/s).
+[Wed Feb 29 23:44:42 2012] [debug] GET /view//home/kbut/devel (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 23:44:42 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 23:44:42 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 23:44:42 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 23:44:42 2012] [debug] 200 OK (0.006298s, 158.781/s).
+[Wed Feb 29 23:44:42 2012] [debug] GET /view//home/kbut/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 23:44:42 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 23:44:42 2012] [debug] 200 OK (0.001470s, 680.272/s).
+[Wed Feb 29 23:48:22 2012] [debug] GET /view/ (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 23:48:22 2012] [debug] Template "not_found.development.html.ep" not found.
+[Wed Feb 29 23:48:22 2012] [debug] Template "not_found.html.ep" not found.
+[Wed Feb 29 23:48:22 2012] [debug] Rendering inline template.
+[Wed Feb 29 23:48:22 2012] [debug] Rendering inline template.
+[Wed Feb 29 23:48:22 2012] [debug] 404 Not Found (0.017129s, 58.381/s).
+[Wed Feb 29 23:48:32 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 23:48:32 2012] [debug] GET /view/ (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 23:48:32 2012] [debug] Template "not_found.development.html.ep" not found.
+[Wed Feb 29 23:48:32 2012] [debug] Template "not_found.html.ep" not found.
+[Wed Feb 29 23:48:32 2012] [debug] Rendering inline template.
+[Wed Feb 29 23:48:32 2012] [debug] Rendering inline template.
+[Wed Feb 29 23:48:32 2012] [debug] 404 Not Found (0.018086s, 55.291/s).
+[Wed Feb 29 23:48:33 2012] [debug] GET /view/ (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 23:48:33 2012] [debug] Template "not_found.development.html.ep" not found.
+[Wed Feb 29 23:48:33 2012] [debug] Template "not_found.html.ep" not found.
+[Wed Feb 29 23:48:33 2012] [debug] 404 Not Found (0.006676s, 149.790/s).
+[Wed Feb 29 23:51:55 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 23:51:55 2012] [debug] GET /view/ (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 23:51:55 2012] [debug] Template "not_found.development.html.ep" not found.
+[Wed Feb 29 23:51:55 2012] [debug] Template "not_found.html.ep" not found.
+[Wed Feb 29 23:51:55 2012] [debug] Rendering inline template.
+[Wed Feb 29 23:51:55 2012] [debug] Rendering inline template.
+[Wed Feb 29 23:51:55 2012] [debug] 404 Not Found (0.018062s, 55.365/s).
+[Wed Feb 29 23:51:58 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 23:51:58 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 23:51:58 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 23:51:58 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 23:51:58 2012] [debug] 200 OK (0.008994s, 111.185/s).
+[Wed Feb 29 23:52:01 2012] [debug] GET /view//home/kbut/devel (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 23:52:01 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 23:52:01 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 23:52:01 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 23:52:01 2012] [debug] 200 OK (0.006235s, 160.385/s).
+[Wed Feb 29 23:52:01 2012] [debug] GET /view//home/kbut/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 23:52:01 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Wed Feb 29 23:52:01 2012] [debug] 200 OK (0.001651s, 605.694/s).
+[Wed Feb 29 23:59:28 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 23:59:28 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 23:59:28 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 23:59:28 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 23:59:28 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 23:59:28 2012] [debug] 200 OK (0.007998s, 125.031/s).
+[Wed Feb 29 23:59:43 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 29 23:59:43 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Wed Feb 29 23:59:43 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Wed Feb 29 23:59:43 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Wed Feb 29 23:59:43 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 29 23:59:43 2012] [debug] 200 OK (0.009387s, 106.530/s).
+[Thu Mar  1 00:00:00 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:00:00 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:00:00 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Thu Mar  1 00:00:00 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:00:00 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:00:00 2012] [debug] 200 OK (0.009626s, 103.885/s).
+[Thu Mar  1 00:00:02 2012] [debug] GET /view/home/kbut/compartidos (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:00:02 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:00:02 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:00:02 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:00:02 2012] [debug] 200 OK (0.007726s, 129.433/s).
+[Thu Mar  1 00:00:03 2012] [debug] GET /view/home/kbut/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:00:03 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:00:03 2012] [debug] 200 OK (0.001584s, 631.313/s).
+[Thu Mar  1 00:00:23 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:00:23 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:00:23 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Thu Mar  1 00:00:23 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:00:23 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:00:23 2012] [debug] 200 OK (0.010194s, 98.097/s).
+[Thu Mar  1 00:00:25 2012] [debug] GET /view/home/kbut/compartidos (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:00:25 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:00:25 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:00:25 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:00:25 2012] [debug] 200 OK (0.018998s, 52.637/s).
+[Thu Mar  1 00:00:25 2012] [debug] GET /view/home/kbut/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:00:25 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:00:25 2012] [debug] 200 OK (0.001699s, 588.582/s).
+[Thu Mar  1 00:00:27 2012] [debug] GET /view/home/kbut/view/home/kbut/compartidos/Cocinas (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:00:27 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:00:27 2012] [debug] 200 OK (0.001392s, 718.391/s).
+[Thu Mar  1 00:00:27 2012] [debug] GET /view/home/kbut/view/home/kbut/compartidos/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:00:27 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:00:27 2012] [debug] 200 OK (0.002052s, 487.329/s).
+[Thu Mar  1 00:00:41 2012] [debug] GET /view/home/kbut/view/home/kbut/compartidos/Fotos (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:00:41 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:00:41 2012] [debug] 200 OK (0.001378s, 725.689/s).
+[Thu Mar  1 00:00:41 2012] [debug] GET /view/home/kbut/view/home/kbut/compartidos/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:00:41 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:00:41 2012] [debug] 200 OK (0.001169s, 855.432/s).
+[Thu Mar  1 00:00:53 2012] [debug] GET /view/home/kbut/view/home/kbut/compartidos/Cuenta%20Premium%20Megaupload (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:00:53 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:00:53 2012] [debug] 200 OK (0.001586s, 630.517/s).
+[Thu Mar  1 00:00:53 2012] [debug] GET /view/home/kbut/view/home/kbut/compartidos/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:00:53 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:00:53 2012] [debug] 200 OK (0.001314s, 761.035/s).
+[Thu Mar  1 00:01:12 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:01:12 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Thu Mar  1 00:01:12 2012] [debug] 200 OK (0.002232s, 448.029/s).
+[Thu Mar  1 00:01:20 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:01:20 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Thu Mar  1 00:01:20 2012] [debug] 200 OK (0.002123s, 471.032/s).
+[Thu Mar  1 00:01:24 2012] [debug] GET /view/home/kbut/prueba (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:01:24 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:01:24 2012] [debug] 200 OK (0.008426s, 118.680/s).
+[Thu Mar  1 00:01:24 2012] [debug] GET /view/home/kbut/css/estilo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:01:24 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:01:24 2012] [debug] 200 OK (0.001316s, 759.878/s).
+[Thu Mar  1 00:03:00 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:03:00 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:03:00 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Thu Mar  1 00:03:00 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:03:00 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:03:00 2012] [debug] 200 OK (0.009856s, 101.461/s).
+[Thu Mar  1 00:03:05 2012] [debug] GET /view/home/kbut/prueba (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:03:05 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:03:05 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:03:05 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:03:05 2012] [debug] 200 OK (0.006392s, 156.446/s).
+[Thu Mar  1 00:03:16 2012] [debug] GET /view/home/kbut/view/home/kbut/prueba/prueba (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:03:16 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:03:16 2012] [debug] 200 OK (0.001409s, 709.723/s).
+[Thu Mar  1 00:03:28 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:03:28 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Thu Mar  1 00:03:28 2012] [debug] 200 OK (0.002257s, 443.066/s).
+[Thu Mar  1 00:03:32 2012] [debug] GET /view/home/kbut/escritorio (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:03:32 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:03:39 2012] [debug] 200 OK (7.064346s, 0.142/s).
+[Thu Mar  1 00:05:52 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:05:52 2012] [debug] GET /view/home/kbut/escritorio (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:05:52 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:05:52 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:05:52 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:05:52 2012] [debug] 200 OK (0.009529s, 104.943/s).
+[Thu Mar  1 00:06:01 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:06:01 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Thu Mar  1 00:06:01 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:06:01 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:06:01 2012] [debug] 200 OK (0.007006s, 142.735/s).
+[Thu Mar  1 00:06:13 2012] [debug] GET /compartidos (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:06:13 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Mar  1 00:06:13 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Mar  1 00:06:13 2012] [debug] Rendering inline template.
+[Thu Mar  1 00:06:13 2012] [debug] Rendering inline template.
+[Thu Mar  1 00:06:13 2012] [debug] 404 Not Found (0.016735s, 59.755/s).
+[Thu Mar  1 00:08:11 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:08:11 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:08:11 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Thu Mar  1 00:08:11 2012] [debug] Rendering template "viewer/rootview.html.ep".
+[Thu Mar  1 00:08:11 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:08:11 2012] [debug] 200 OK (0.010379s, 96.348/s).
+[Thu Mar  1 00:08:17 2012] [debug] GET /view/home/kbut/compartidos (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:08:17 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:08:17 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:08:17 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:08:17 2012] [debug] 200 OK (0.016756s, 59.680/s).
+[Thu Mar  1 00:08:20 2012] [debug] GET /view/home/kbut/Cocinas (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:08:20 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:08:20 2012] [debug] 200 OK (0.001432s, 698.324/s).
+[Thu Mar  1 00:08:31 2012] [debug] GET /view/home/kbut/Fotos (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:08:31 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:08:31 2012] [debug] 200 OK (0.001695s, 589.971/s).
+[Thu Mar  1 00:08:44 2012] [debug] GET /view/home/kbut/yoigoraul (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:08:44 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:08:44 2012] [debug] 200 OK (0.001662s, 601.685/s).
+[Thu Mar  1 00:09:02 2012] [debug] GET /view/home/kbut/devel (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:09:02 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:09:02 2012] [debug] 200 OK (0.001839s, 543.774/s).
+[Thu Mar  1 00:09:04 2012] [debug] GET /view/home/kbut/perl (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:09:04 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:09:04 2012] [debug] 200 OK (0.001706s, 586.166/s).
+[Thu Mar  1 00:09:20 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:09:20 2012] [debug] Dispatching "Yamc::Viewer->initial".
+[Thu Mar  1 00:09:20 2012] [debug] 200 OK (0.002225s, 449.438/s).
+[Thu Mar  1 00:09:28 2012] [debug] GET /view/home/kbut/prueba (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:09:28 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:09:28 2012] [debug] 200 OK (0.001470s, 680.272/s).
+[Thu Mar  1 00:09:35 2012] [debug] GET /view/home/kbut/prueba (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:09:35 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:09:35 2012] [debug] 200 OK (0.001356s, 737.463/s).
+[Thu Mar  1 00:09:39 2012] [debug] GET /view/home/kbut/prueba (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:09:39 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:09:39 2012] [debug] 200 OK (0.001344s, 744.048/s).
+[Thu Mar  1 00:09:39 2012] [debug] GET /view/home/kbut/prueba (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:09:39 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:09:39 2012] [debug] 200 OK (0.001216s, 822.368/s).
+[Thu Mar  1 00:09:39 2012] [debug] GET /view/home/kbut/prueba (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:09:39 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:09:39 2012] [debug] 200 OK (0.001326s, 754.148/s).
+[Thu Mar  1 00:09:40 2012] [debug] GET /view/home/kbut/prueba (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:09:40 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:09:40 2012] [debug] 200 OK (0.001391s, 718.907/s).
+[Thu Mar  1 00:09:40 2012] [debug] GET /view/home/kbut/prueba (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:09:40 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:09:40 2012] [debug] 200 OK (0.001342s, 745.156/s).
+[Thu Mar  1 00:09:50 2012] [debug] GET /view/home/kbut/perl5 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:09:50 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:09:50 2012] [debug] 200 OK (0.001457s, 686.342/s).
+[Thu Mar  1 00:09:54 2012] [debug] GET /view/home/kbut/man (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:09:54 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:09:54 2012] [debug] 200 OK (0.001621s, 616.903/s).
+[Thu Mar  1 00:13:35 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:13:35 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:13:35 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:13:35 2012] [debug] Rendering template "viewer/rootview.html.ep".
+[Thu Mar  1 00:13:35 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:13:35 2012] [debug] 200 OK (0.009154s, 109.242/s).
+[Thu Mar  1 00:13:46 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:13:46 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:13:46 2012] [debug] 200 OK (0.001117s, 895.255/s).
+[Thu Mar  1 00:13:51 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:13:51 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:13:51 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:13:51 2012] [debug] Rendering template "viewer/rootview.html.ep".
+[Thu Mar  1 00:13:51 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:13:51 2012] [debug] 200 OK (0.009587s, 104.308/s).
+[Thu Mar  1 00:13:59 2012] [debug] GET /view/home/kbut/escritorio (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:13:59 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:13:59 2012] [debug] 200 OK (0.001444s, 692.521/s).
+[Thu Mar  1 00:14:21 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:14:21 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:14:21 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:14:21 2012] [debug] Rendering template "viewer/rootview.html.ep".
+[Thu Mar  1 00:14:21 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:14:21 2012] [debug] 200 OK (0.016656s, 60.038/s).
+[Thu Mar  1 00:14:25 2012] [debug] GET /view//home/kbut/compartidos (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:14:25 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:14:25 2012] [debug] 200 OK (0.012118s, 82.522/s).
+[Thu Mar  1 00:14:45 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:14:45 2012] [debug] GET /view//home/kbut/compartidos (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:14:45 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:14:45 2012] [debug] Rendering template "viewer/rootview.html.ep".
+[Thu Mar  1 00:14:45 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:14:45 2012] [debug] 200 OK (0.009115s, 109.709/s).
+[Thu Mar  1 00:14:54 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:14:54 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:14:54 2012] [debug] 200 OK (0.002445s, 408.998/s).
+[Thu Mar  1 00:14:57 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:14:57 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:14:57 2012] [debug] 200 OK (0.002306s, 433.651/s).
+[Thu Mar  1 00:15:00 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:15:00 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:15:00 2012] [debug] 200 OK (0.002351s, 425.351/s).
+[Thu Mar  1 00:15:15 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:15:15 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:15:15 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:15:15 2012] [debug] Rendering template "viewer/rootview.html.ep".
+[Thu Mar  1 00:15:15 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:15:15 2012] [debug] 200 OK (0.009805s, 101.989/s).
+[Thu Mar  1 00:16:11 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:16:11 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:16:11 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:16:11 2012] [debug] Rendering template "viewer/rootview.html.ep".
+[Thu Mar  1 00:16:11 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:16:11 2012] [debug] 200 OK (0.009608s, 104.080/s).
+[Thu Mar  1 00:16:47 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:16:47 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:16:47 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:16:47 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:16:47 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:16:47 2012] [debug] 200 OK (0.009772s, 102.333/s).
+[Thu Mar  1 00:16:53 2012] [debug] GET /compartidos (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:16:53 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Mar  1 00:16:53 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Mar  1 00:16:53 2012] [debug] Rendering inline template.
+[Thu Mar  1 00:16:53 2012] [debug] Rendering inline template.
+[Thu Mar  1 00:16:53 2012] [debug] 404 Not Found (0.018072s, 55.334/s).
+[Thu Mar  1 00:18:00 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:18:00 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:18:00 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:18:00 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:18:00 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:18:00 2012] [debug] 200 OK (0.009672s, 103.391/s).
+[Thu Mar  1 00:18:05 2012] [debug] GET /view//home/kbutcompartidos (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:18:05 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:18:05 2012] [debug] 200 OK (0.001447s, 691.085/s).
+[Thu Mar  1 00:18:34 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:18:34 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:18:34 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:18:34 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:18:34 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:18:34 2012] [debug] 200 OK (0.009769s, 102.365/s).
+[Thu Mar  1 00:18:39 2012] [debug] GET /view/home/kbutcompartidos (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:18:39 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:18:39 2012] [debug] 200 OK (0.001430s, 699.301/s).
+[Thu Mar  1 00:19:06 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:19:06 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:19:06 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:19:06 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:19:06 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:19:06 2012] [debug] 200 OK (0.009637s, 103.767/s).
+[Thu Mar  1 00:19:09 2012] [debug] GET /view/home/kbut/compartidos (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:19:09 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:19:09 2012] [debug] 200 OK (0.012375s, 80.808/s).
+[Thu Mar  1 00:19:10 2012] [debug] GET /view/home/kbut/viewhome/kbut/compartidos/Fotos (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:19:10 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:19:10 2012] [debug] 200 OK (0.001607s, 622.278/s).
+[Thu Mar  1 00:19:31 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:19:31 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:19:31 2012] [debug] 200 OK (0.002273s, 439.947/s).
+[Thu Mar  1 00:19:36 2012] [debug] GET /view/home/kbut/escritorio (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:19:36 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:19:36 2012] [debug] 200 OK (0.002958s, 338.066/s).
+[Thu Mar  1 00:20:52 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:20:52 2012] [debug] GET /view/home/kbut/escritorio (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:20:52 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:20:52 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:20:52 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:20:52 2012] [debug] 200 OK (0.009864s, 101.379/s).
+[Thu Mar  1 00:23:27 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:23:27 2012] [debug] GET /view/home/kbut/escritorio (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:23:27 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:23:27 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:23:27 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:23:27 2012] [debug] 200 OK (0.009392s, 106.474/s).
+[Thu Mar  1 00:24:00 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:24:00 2012] [debug] GET /view/home/kbut/escritorio (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:00 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:00 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:24:00 2012] [error] Illegal division by zero at template "viewer/directoryview.html.ep" line 16, near "                }".
+11:                         if ( $item =~ m/^\./ ){
+12:                                 $hidden = "class='hidden'";
+13:                                 }
+14:                         
+15:                         %><h5><%== $item %></h5>
+16:                         <li <%== $hidden %>><a href="view<%== $basepath/$item%>">hola</a></li><%
+17:                 }
+18:         %>
+19: </ul>
+20: <h3>Files</h3>
+21: <ul>
+
+[Thu Mar  1 00:24:00 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:24:00 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:24:00 2012] [debug] Rendering inline template.
+[Thu Mar  1 00:24:00 2012] [debug] Rendering inline template.
+[Thu Mar  1 00:24:00 2012] [debug] 500 Internal Server Error (0.033105s, 30.207/s).
+[Thu Mar  1 00:24:00 2012] [debug] GET /view/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:00 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:00 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:24:00 2012] [debug] 200 OK (0.003453s, 289.603/s).
+[Thu Mar  1 00:24:00 2012] [debug] GET /view/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:00 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:00 2012] [debug] 200 OK (0.001152s, 868.056/s).
+[Thu Mar  1 00:24:00 2012] [debug] GET /view/css/prettify-mojo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:00 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:00 2012] [debug] 200 OK (0.001008s, 992.063/s).
+[Thu Mar  1 00:24:00 2012] [debug] GET /view/js/prettify.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:00 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:00 2012] [debug] 200 OK (0.000996s, 1004.016/s).
+[Thu Mar  1 00:24:00 2012] [debug] GET /view/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:00 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:00 2012] [debug] 200 OK (0.001003s, 997.009/s).
+[Thu Mar  1 00:24:00 2012] [debug] GET /view/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:00 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:00 2012] [debug] 200 OK (0.001217s, 821.693/s).
+[Thu Mar  1 00:24:00 2012] [debug] GET /view/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:00 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:00 2012] [debug] 200 OK (0.001381s, 724.113/s).
+[Thu Mar  1 00:24:00 2012] [debug] GET /view/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:00 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:00 2012] [debug] 200 OK (0.001468s, 681.199/s).
+[Thu Mar  1 00:24:00 2012] [debug] GET /view/mojolicious-pinstripe.gif (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:00 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:00 2012] [debug] 200 OK (0.001440s, 694.444/s).
+[Thu Mar  1 00:24:01 2012] [debug] GET /view/home/kbut/escritorio (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:01 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:01 2012] [error] Illegal division by zero at template "viewer/directoryview.html.ep" line 16, near "                }".
+11:                         if ( $item =~ m/^\./ ){
+12:                                 $hidden = "class='hidden'";
+13:                                 }
+14:                         
+15:                         %><h5><%== $item %></h5>
+16:                         <li <%== $hidden %>><a href="view<%== $basepath/$item%>">hola</a></li><%
+17:                 }
+18:         %>
+19: </ul>
+20: <h3>Files</h3>
+21: <ul>
+
+[Thu Mar  1 00:24:01 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:24:01 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:24:01 2012] [debug] 500 Internal Server Error (0.011535s, 86.693/s).
+[Thu Mar  1 00:24:01 2012] [debug] GET /view/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:01 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:01 2012] [debug] 200 OK (0.001199s, 834.028/s).
+[Thu Mar  1 00:24:01 2012] [debug] GET /view/css/prettify-mojo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:01 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:01 2012] [debug] 200 OK (0.000814s, 1228.501/s).
+[Thu Mar  1 00:24:01 2012] [debug] GET /view/js/prettify.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:01 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:01 2012] [debug] 200 OK (0.000793s, 1261.034/s).
+[Thu Mar  1 00:24:01 2012] [debug] GET /view/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:01 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:01 2012] [debug] 200 OK (0.000809s, 1236.094/s).
+[Thu Mar  1 00:24:01 2012] [debug] GET /view/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:01 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:01 2012] [debug] 200 OK (0.000822s, 1216.545/s).
+[Thu Mar  1 00:24:01 2012] [debug] GET /view/css/prettify-mojo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:01 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:01 2012] [debug] 200 OK (0.001392s, 718.391/s).
+[Thu Mar  1 00:24:01 2012] [debug] GET /view/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:01 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:01 2012] [debug] 200 OK (0.001294s, 772.798/s).
+[Thu Mar  1 00:24:01 2012] [debug] GET /view/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:01 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:01 2012] [debug] 200 OK (0.001565s, 638.978/s).
+[Thu Mar  1 00:24:01 2012] [debug] GET /view/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:01 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:01 2012] [debug] 200 OK (0.001216s, 822.368/s).
+[Thu Mar  1 00:24:01 2012] [debug] GET /view/mojolicious-pinstripe.gif (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:01 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:01 2012] [debug] 200 OK (0.001252s, 798.722/s).
+[Thu Mar  1 00:24:03 2012] [debug] GET /view/home/kbut/escritorio (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:03 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:03 2012] [error] Illegal division by zero at template "viewer/directoryview.html.ep" line 16, near "                }".
+11:                         if ( $item =~ m/^\./ ){
+12:                                 $hidden = "class='hidden'";
+13:                                 }
+14:                         
+15:                         %><h5><%== $item %></h5>
+16:                         <li <%== $hidden %>><a href="view<%== $basepath/$item%>">hola</a></li><%
+17:                 }
+18:         %>
+19: </ul>
+20: <h3>Files</h3>
+21: <ul>
+
+[Thu Mar  1 00:24:03 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:24:03 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:24:03 2012] [debug] 500 Internal Server Error (0.011284s, 88.621/s).
+[Thu Mar  1 00:24:03 2012] [debug] GET /view/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:03 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:03 2012] [debug] 200 OK (0.001314s, 761.035/s).
+[Thu Mar  1 00:24:03 2012] [debug] GET /view/css/prettify-mojo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:03 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:03 2012] [debug] 200 OK (0.001195s, 836.820/s).
+[Thu Mar  1 00:24:03 2012] [debug] GET /view/js/prettify.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:03 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:03 2012] [debug] 200 OK (0.001210s, 826.446/s).
+[Thu Mar  1 00:24:03 2012] [debug] GET /view/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:03 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:03 2012] [debug] 200 OK (0.001207s, 828.500/s).
+[Thu Mar  1 00:24:03 2012] [debug] GET /view/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:03 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:03 2012] [debug] 200 OK (0.001200s, 833.333/s).
+[Thu Mar  1 00:24:03 2012] [debug] GET /view/css/prettify-mojo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:03 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:03 2012] [debug] 200 OK (0.001225s, 816.327/s).
+[Thu Mar  1 00:24:03 2012] [debug] GET /view/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:03 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:03 2012] [debug] 200 OK (0.001429s, 699.790/s).
+[Thu Mar  1 00:24:03 2012] [debug] GET /view/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:03 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:03 2012] [debug] 200 OK (0.001269s, 788.022/s).
+[Thu Mar  1 00:24:03 2012] [debug] GET /view/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:03 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:03 2012] [debug] 200 OK (0.001591s, 628.536/s).
+[Thu Mar  1 00:24:03 2012] [debug] GET /view/mojolicious-pinstripe.gif (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:03 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:03 2012] [debug] 200 OK (0.001113s, 898.473/s).
+[Thu Mar  1 00:24:04 2012] [debug] GET /view/home/kbut/escritorio (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:04 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:04 2012] [error] Illegal division by zero at template "viewer/directoryview.html.ep" line 16, near "                }".
+11:                         if ( $item =~ m/^\./ ){
+12:                                 $hidden = "class='hidden'";
+13:                                 }
+14:                         
+15:                         %><h5><%== $item %></h5>
+16:                         <li <%== $hidden %>><a href="view<%== $basepath/$item%>">hola</a></li><%
+17:                 }
+18:         %>
+19: </ul>
+20: <h3>Files</h3>
+21: <ul>
+
+[Thu Mar  1 00:24:04 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:24:04 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:24:04 2012] [debug] 500 Internal Server Error (0.012038s, 83.070/s).
+[Thu Mar  1 00:24:04 2012] [debug] GET /view/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:04 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:04 2012] [debug] 200 OK (0.001184s, 844.595/s).
+[Thu Mar  1 00:24:04 2012] [debug] GET /view/css/prettify-mojo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:04 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:04 2012] [debug] 200 OK (0.000825s, 1212.121/s).
+[Thu Mar  1 00:24:04 2012] [debug] GET /view/js/prettify.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:04 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:04 2012] [debug] 200 OK (0.000795s, 1257.862/s).
+[Thu Mar  1 00:24:04 2012] [debug] GET /view/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:04 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:04 2012] [debug] 200 OK (0.000826s, 1210.654/s).
+[Thu Mar  1 00:24:04 2012] [debug] GET /view/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:04 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:04 2012] [debug] 200 OK (0.000829s, 1206.273/s).
+[Thu Mar  1 00:24:04 2012] [debug] GET /view/css/prettify-mojo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:04 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:04 2012] [debug] 200 OK (0.001200s, 833.333/s).
+[Thu Mar  1 00:24:04 2012] [debug] GET /view/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:04 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:04 2012] [debug] 200 OK (0.001158s, 863.558/s).
+[Thu Mar  1 00:24:04 2012] [debug] GET /view/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:04 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:04 2012] [debug] 200 OK (0.001423s, 702.741/s).
+[Thu Mar  1 00:24:04 2012] [debug] GET /view/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:04 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:04 2012] [debug] 200 OK (0.001273s, 785.546/s).
+[Thu Mar  1 00:24:04 2012] [debug] GET /view/mojolicious-pinstripe.gif (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:04 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:04 2012] [debug] 200 OK (0.001264s, 791.139/s).
+[Thu Mar  1 00:24:07 2012] [debug] GET /view/home/kbut/escritorio (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:07 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:07 2012] [error] Illegal division by zero at template "viewer/directoryview.html.ep" line 16, near "                }".
+11:                         if ( $item =~ m/^\./ ){
+12:                                 $hidden = "class='hidden'";
+13:                                 }
+14:                         
+15:                         %><h5><%== $item %></h5>
+16:                         <li <%== $hidden %>><a href="view<%== $basepath/$item%>">hola</a></li><%
+17:                 }
+18:         %>
+19: </ul>
+20: <h3>Files</h3>
+21: <ul>
+
+[Thu Mar  1 00:24:07 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:24:07 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:24:07 2012] [debug] 500 Internal Server Error (0.011563s, 86.483/s).
+[Thu Mar  1 00:24:07 2012] [debug] GET /view/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:07 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:07 2012] [debug] 200 OK (0.001178s, 848.896/s).
+[Thu Mar  1 00:24:07 2012] [debug] GET /view/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:07 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:07 2012] [debug] 200 OK (0.000852s, 1173.709/s).
+[Thu Mar  1 00:24:07 2012] [debug] GET /view/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:07 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:07 2012] [debug] 200 OK (0.001292s, 773.994/s).
+[Thu Mar  1 00:24:07 2012] [debug] GET /view/css/prettify-mojo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:07 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:07 2012] [debug] 200 OK (0.001000s, 1000.000/s).
+[Thu Mar  1 00:24:07 2012] [debug] GET /view/js/prettify.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:07 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:07 2012] [debug] 200 OK (0.001012s, 988.142/s).
+[Thu Mar  1 00:24:07 2012] [debug] GET /view/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:07 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:07 2012] [debug] 200 OK (0.001185s, 843.882/s).
+[Thu Mar  1 00:24:07 2012] [debug] GET /view/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:07 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:07 2012] [debug] 200 OK (0.001783s, 560.852/s).
+[Thu Mar  1 00:24:07 2012] [debug] GET /view/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:07 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:07 2012] [debug] 200 OK (0.001441s, 693.963/s).
+[Thu Mar  1 00:24:07 2012] [debug] GET /view/mojolicious-pinstripe.gif (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:07 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:07 2012] [debug] 200 OK (0.001459s, 685.401/s).
+[Thu Mar  1 00:24:44 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:24:44 2012] [debug] GET /view/home/kbut/escritorio (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:24:44 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:24:44 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:24:44 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:24:44 2012] [debug] 200 OK (0.009447s, 105.854/s).
+[Thu Mar  1 00:25:05 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:25:05 2012] [debug] GET /view/home/kbut/escritorio (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:25:05 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:25:05 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:25:05 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:25:05 2012] [debug] 200 OK (0.009313s, 107.377/s).
+[Thu Mar  1 00:26:23 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:26:23 2012] [debug] GET /view/home/kbut/escritorio (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:26:23 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:26:23 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:26:23 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:26:23 2012] [debug] 200 OK (0.010033s, 99.671/s).
+[Thu Mar  1 00:29:10 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:29:10 2012] [debug] GET /view/home/kbut/escritorio (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:29:10 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:29:10 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:29:10 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:29:10 2012] [debug] 200 OK (0.010288s, 97.201/s).
+[Thu Mar  1 00:29:39 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:29:39 2012] [debug] GET /view/home/kbut/escritorio (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:29:39 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:29:39 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:29:39 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:29:39 2012] [debug] 200 OK (0.009237s, 108.260/s).
+[Thu Mar  1 00:29:50 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:29:50 2012] [debug] GET /view/home/kbut/escritorio (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:29:50 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:29:50 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:29:50 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:29:50 2012] [debug] 200 OK (0.011166s, 89.558/s).
+[Thu Mar  1 00:34:44 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:34:44 2012] [debug] GET /view/home/kbut/escritorio (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:34:44 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:34:44 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:34:44 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:34:44 2012] [debug] 200 OK (0.010075s, 99.256/s).
+[Thu Mar  1 00:35:07 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:35:07 2012] [debug] GET /view/home/kbut/escritorio (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:35:07 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:35:07 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:35:07 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:35:07 2012] [debug] 200 OK (0.009276s, 107.805/s).
+[Thu Mar  1 00:35:20 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:35:20 2012] [debug] GET /view/home/kbut/escritorio (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:35:20 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:35:20 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:35:20 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:35:20 2012] [debug] 200 OK (0.009233s, 108.307/s).
+[Thu Mar  1 00:36:06 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:36:06 2012] [debug] GET /view/home/kbut/escritorio (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:36:06 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:36:06 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:36:06 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:36:06 2012] [debug] 200 OK (0.009820s, 101.833/s).
+[Thu Mar  1 00:36:11 2012] [debug] GET /view/home/kbut/firefox (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:36:11 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:36:11 2012] [debug] 200 OK (0.001631s, 613.121/s).
+[Thu Mar  1 00:36:42 2012] [debug] GET /view/home/kbut/escritorio (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:36:42 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:36:42 2012] [debug] 200 OK (0.001760s, 568.182/s).
+[Thu Mar  1 00:36:52 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:36:52 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:36:52 2012] [debug] 200 OK (0.002200s, 454.545/s).
+[Thu Mar  1 00:37:14 2012] [debug] GET /tmp (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:37:14 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Mar  1 00:37:14 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Mar  1 00:37:14 2012] [debug] Rendering inline template.
+[Thu Mar  1 00:37:14 2012] [debug] Rendering inline template.
+[Thu Mar  1 00:37:14 2012] [debug] 404 Not Found (0.018948s, 52.776/s).
+[Thu Mar  1 00:37:22 2012] [debug] GET /view/tmp (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:37:22 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:37:22 2012] [debug] 200 OK (0.002219s, 450.653/s).
+[Thu Mar  1 00:37:27 2012] [debug] GET /view/akonadi-kbut.O0z7yb (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:37:27 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:37:27 2012] [debug] 200 OK (0.001439s, 694.927/s).
+[Thu Mar  1 00:38:51 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:38:51 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:38:51 2012] [debug] 200 OK (0.001994s, 501.505/s).
+[Thu Mar  1 00:39:15 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:39:15 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:39:15 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:39:15 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:39:15 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:39:15 2012] [debug] 200 OK (0.008540s, 117.096/s).
+[Thu Mar  1 00:39:20 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:39:20 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:39:20 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:39:20 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:39:20 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:39:20 2012] [debug] 200 OK (0.008578s, 116.577/s).
+[Thu Mar  1 00:39:29 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:39:29 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:39:29 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:39:29 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:39:29 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:39:29 2012] [debug] 200 OK (0.009418s, 106.180/s).
+[Thu Mar  1 00:39:49 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:39:49 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:39:49 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:39:49 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:39:49 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:39:49 2012] [debug] 200 OK (0.009773s, 102.323/s).
+[Thu Mar  1 00:39:52 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:39:52 2012] [debug] GET /prueba (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:39:52 2012] [debug] Template "not_found.development.html.ep" not found.
+[Thu Mar  1 00:39:52 2012] [debug] Template "not_found.html.ep" not found.
+[Thu Mar  1 00:39:52 2012] [debug] Rendering inline template.
+[Thu Mar  1 00:39:52 2012] [debug] Rendering inline template.
+[Thu Mar  1 00:39:52 2012] [debug] 404 Not Found (0.018166s, 55.048/s).
+[Thu Mar  1 00:40:00 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:40:00 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:40:00 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:40:00 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:40:00 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:40:00 2012] [debug] 200 OK (0.009679s, 103.316/s).
+[Thu Mar  1 00:40:02 2012] [debug] GET /view/prueba (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:40:02 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:40:02 2012] [debug] 200 OK (0.001419s, 704.722/s).
+[Thu Mar  1 00:40:16 2012] [debug] GET /view/prueba (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:40:16 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:40:16 2012] [debug] 200 OK (0.001225s, 816.327/s).
+[Thu Mar  1 00:40:55 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:40:55 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:40:55 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:40:55 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:40:55 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:40:55 2012] [debug] 200 OK (0.009515s, 105.097/s).
+[Thu Mar  1 00:41:08 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:41:08 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:41:08 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:41:08 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:41:08 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:41:08 2012] [debug] 200 OK (0.008767s, 114.064/s).
+[Thu Mar  1 00:41:12 2012] [debug] GET /view/home/kbut/perl5 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:41:12 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:41:12 2012] [debug] 200 OK (0.001746s, 572.738/s).
+[Thu Mar  1 00:44:44 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:44:44 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:44:44 2012] [debug] Dispatching "Yamc::Viewer->root".
+[Thu Mar  1 00:44:44 2012] [debug] Rendering template "viewer/rootview.html.ep".
+[Thu Mar  1 00:44:44 2012] [error] Global symbol "$message" requires explicit package name at template "viewer/rootview.html.ep" line 3, near "<a href="/view/home/kbut">ver peliculas</a>".
+1: % layout 'default';
+2: % title 'Welcome';
+3: <h2><%= $message %></h2>
+4: <a href="/view/home/kbut">ver peliculas</a>
+
+[Thu Mar  1 00:44:44 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:44:44 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:44:44 2012] [debug] Rendering inline template.
+[Thu Mar  1 00:44:44 2012] [debug] Rendering inline template.
+[Thu Mar  1 00:44:44 2012] [debug] 500 Internal Server Error (0.026770s, 37.355/s).
+[Thu Mar  1 00:45:29 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:45:29 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:45:29 2012] [debug] Dispatching "Yamc::Viewer->root".
+[Thu Mar  1 00:45:29 2012] [debug] Rendering template "viewer/rootview.html.ep".
+[Thu Mar  1 00:45:29 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:45:29 2012] [debug] 200 OK (0.007796s, 128.271/s).
+[Thu Mar  1 00:45:31 2012] [debug] GET /view/home/kbut (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:45:31 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:45:31 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:45:31 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:45:31 2012] [debug] 200 OK (0.007644s, 130.822/s).
+[Thu Mar  1 00:45:33 2012] [debug] GET /view/home/viewhome/kbut/compartidos (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:45:33 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:45:33 2012] [debug] 200 OK (0.001416s, 706.215/s).
+[Thu Mar  1 00:46:13 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:46:13 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:46:13 2012] [debug] Dispatching "Yamc::Viewer->root".
+[Thu Mar  1 00:46:13 2012] [debug] Rendering template "viewer/rootview.html.ep".
+[Thu Mar  1 00:46:13 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:46:13 2012] [debug] 200 OK (0.007959s, 125.644/s).
+[Thu Mar  1 00:46:14 2012] [debug] GET /view/home/kbut (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:46:14 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:46:14 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Thu Mar  1 00:46:14 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:46:14 2012] [debug] 200 OK (0.007764s, 128.800/s).
+[Thu Mar  1 00:46:17 2012] [debug] GET /view/home/compartidos (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:46:17 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:46:17 2012] [debug] 200 OK (0.001433s, 697.837/s).
+[Thu Mar  1 00:50:55 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Mar  1 00:50:55 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:50:55 2012] [debug] Dispatching "Yamc::Viewer->root".
+[Thu Mar  1 00:50:55 2012] [debug] Rendering template "viewer/rootview.html.ep".
+[Thu Mar  1 00:50:55 2012] [debug] Rendering template "layouts/default.html.ep".
+[Thu Mar  1 00:50:55 2012] [debug] 200 OK (0.006997s, 142.918/s).
+[Thu Mar  1 00:50:56 2012] [debug] GET /view/home/kbut (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:50:56 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:50:56 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:56 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:50:56 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:50:56 2012] [debug] Rendering inline template.
+[Thu Mar  1 00:50:56 2012] [debug] Rendering inline template.
+[Thu Mar  1 00:50:56 2012] [debug] 500 Internal Server Error (0.026509s, 37.723/s).
+[Thu Mar  1 00:50:56 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:56 2012] [debug] GET /view/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:50:56 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:50:56 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:56 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:50:56 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:50:56 2012] [debug] 500 Internal Server Error (0.010148s, 98.542/s).
+[Thu Mar  1 00:50:56 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:56 2012] [debug] GET /view/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:50:56 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:50:56 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:56 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:50:56 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:50:56 2012] [debug] 500 Internal Server Error (0.009731s, 102.764/s).
+[Thu Mar  1 00:50:56 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:56 2012] [debug] GET /view/css/prettify-mojo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:50:56 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:50:56 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:56 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:50:56 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:50:56 2012] [debug] 500 Internal Server Error (0.009391s, 106.485/s).
+[Thu Mar  1 00:50:56 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:56 2012] [debug] GET /view/js/prettify.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:50:56 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:50:56 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:56 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:50:56 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:50:56 2012] [debug] 500 Internal Server Error (0.009342s, 107.043/s).
+[Thu Mar  1 00:50:56 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:56 2012] [debug] GET /view/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:50:56 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:50:56 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:56 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:50:56 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:50:56 2012] [debug] 500 Internal Server Error (0.009260s, 107.991/s).
+[Thu Mar  1 00:50:56 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:56 2012] [debug] GET /view/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:50:56 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:50:56 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:56 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:50:56 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:50:56 2012] [debug] 500 Internal Server Error (0.010549s, 94.796/s).
+[Thu Mar  1 00:50:56 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:56 2012] [debug] GET /view/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:50:56 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:50:56 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:56 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:50:56 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:50:56 2012] [debug] 500 Internal Server Error (0.010911s, 91.651/s).
+[Thu Mar  1 00:50:56 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:56 2012] [debug] GET /view/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:50:56 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:50:56 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:56 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:50:56 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:50:56 2012] [debug] 500 Internal Server Error (0.010713s, 93.345/s).
+[Thu Mar  1 00:50:56 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:56 2012] [debug] GET /view/mojolicious-pinstripe.gif (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:50:56 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:50:56 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:56 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:50:56 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:50:56 2012] [debug] 500 Internal Server Error (0.010876s, 91.946/s).
+[Thu Mar  1 00:50:56 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:58 2012] [debug] GET /view/home/kbut (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:50:58 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:50:58 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:58 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:50:58 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:50:58 2012] [debug] 500 Internal Server Error (0.011266s, 88.763/s).
+[Thu Mar  1 00:50:58 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:58 2012] [debug] GET /view/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:50:58 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:50:58 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:58 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:50:58 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:50:59 2012] [debug] 500 Internal Server Error (0.009864s, 101.379/s).
+[Thu Mar  1 00:50:59 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:59 2012] [debug] GET /view/js/prettify.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:50:59 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:50:59 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:59 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:50:59 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:50:59 2012] [debug] 500 Internal Server Error (0.009293s, 107.608/s).
+[Thu Mar  1 00:50:59 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:59 2012] [debug] GET /view/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:50:59 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:50:59 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:59 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:50:59 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:50:59 2012] [debug] 500 Internal Server Error (0.009040s, 110.619/s).
+[Thu Mar  1 00:50:59 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:59 2012] [debug] GET /view/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:50:59 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:50:59 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:59 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:50:59 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:50:59 2012] [debug] 500 Internal Server Error (0.008997s, 111.148/s).
+[Thu Mar  1 00:50:59 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:59 2012] [debug] GET /view/css/prettify-mojo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:50:59 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:50:59 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:59 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:50:59 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:50:59 2012] [debug] 500 Internal Server Error (0.009066s, 110.302/s).
+[Thu Mar  1 00:50:59 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:59 2012] [debug] GET /view/css/prettify-mojo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:50:59 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:50:59 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:59 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:50:59 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:50:59 2012] [debug] 500 Internal Server Error (0.009903s, 100.980/s).
+[Thu Mar  1 00:50:59 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:59 2012] [debug] GET /view/js/prettify.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:50:59 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:50:59 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:59 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:50:59 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:50:59 2012] [debug] 500 Internal Server Error (0.010054s, 99.463/s).
+[Thu Mar  1 00:50:59 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:59 2012] [debug] GET /view/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:50:59 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:50:59 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:59 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:50:59 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:50:59 2012] [debug] 500 Internal Server Error (0.010206s, 97.982/s).
+[Thu Mar  1 00:50:59 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:59 2012] [debug] GET /view/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:50:59 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:50:59 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:59 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:50:59 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:50:59 2012] [debug] 500 Internal Server Error (0.010579s, 94.527/s).
+[Thu Mar  1 00:50:59 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:59 2012] [debug] GET /view/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:50:59 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:50:59 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:59 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:50:59 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:50:59 2012] [debug] 500 Internal Server Error (0.010487s, 95.356/s).
+[Thu Mar  1 00:50:59 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:59 2012] [debug] GET /view/mojolicious-pinstripe.gif (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:50:59 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:50:59 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:50:59 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:50:59 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:50:59 2012] [debug] 500 Internal Server Error (0.010300s, 97.087/s).
+[Thu Mar  1 00:50:59 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:29 2012] [debug] GET /view/home/kbut (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:51:29 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:51:29 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:29 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:51:29 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:51:29 2012] [debug] 500 Internal Server Error (0.011486s, 87.063/s).
+[Thu Mar  1 00:51:29 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:29 2012] [debug] GET /view/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:51:29 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:51:29 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:29 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:51:29 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:51:30 2012] [debug] 500 Internal Server Error (0.011005s, 90.868/s).
+[Thu Mar  1 00:51:30 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:30 2012] [debug] GET /view/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:51:30 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:51:30 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:30 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:51:30 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:51:30 2012] [debug] 500 Internal Server Error (0.010954s, 91.291/s).
+[Thu Mar  1 00:51:30 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:30 2012] [debug] GET /view/js/prettify.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:51:30 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:51:30 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:30 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:51:30 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:51:30 2012] [debug] 500 Internal Server Error (0.010677s, 93.659/s).
+[Thu Mar  1 00:51:30 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:30 2012] [debug] GET /view/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:51:30 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:51:30 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:30 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:51:30 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:51:30 2012] [debug] 500 Internal Server Error (0.010786s, 92.713/s).
+[Thu Mar  1 00:51:30 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:30 2012] [debug] GET /view/css/prettify-mojo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:51:30 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:51:30 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:30 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:51:30 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:51:30 2012] [debug] 500 Internal Server Error (0.010992s, 90.975/s).
+[Thu Mar  1 00:51:30 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:30 2012] [debug] GET /view/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:51:30 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:51:30 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:30 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:51:30 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:51:30 2012] [debug] 500 Internal Server Error (0.010853s, 92.140/s).
+[Thu Mar  1 00:51:30 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:30 2012] [debug] GET /view/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:51:30 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:51:30 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:30 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:51:30 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:51:30 2012] [debug] 500 Internal Server Error (0.009791s, 102.135/s).
+[Thu Mar  1 00:51:30 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:30 2012] [debug] GET /view/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:51:30 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:51:30 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:30 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:51:30 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:51:30 2012] [debug] 500 Internal Server Error (0.009450s, 105.820/s).
+[Thu Mar  1 00:51:30 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:30 2012] [debug] GET /view/mojolicious-pinstripe.gif (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:51:30 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:51:30 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:30 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:51:30 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:51:30 2012] [debug] 500 Internal Server Error (0.009353s, 106.918/s).
+[Thu Mar  1 00:51:30 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:39 2012] [debug] GET /view/home/kbut (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:51:39 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:51:39 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:39 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:51:39 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:51:39 2012] [debug] 500 Internal Server Error (0.011369s, 87.958/s).
+[Thu Mar  1 00:51:39 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:39 2012] [debug] GET /view/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:51:39 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:51:39 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:39 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:51:39 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:51:40 2012] [debug] 500 Internal Server Error (0.009860s, 101.420/s).
+[Thu Mar  1 00:51:40 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:40 2012] [debug] GET /view/css/prettify-mojo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:51:40 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:51:40 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:40 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:51:40 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:51:40 2012] [debug] 500 Internal Server Error (0.009193s, 108.778/s).
+[Thu Mar  1 00:51:40 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:40 2012] [debug] GET /view/js/prettify.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:51:40 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:51:40 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:40 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:51:40 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:51:40 2012] [debug] 500 Internal Server Error (0.009756s, 102.501/s).
+[Thu Mar  1 00:51:40 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:40 2012] [debug] GET /view/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:51:40 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:51:40 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:40 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:51:40 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:51:40 2012] [debug] 500 Internal Server Error (0.009528s, 104.954/s).
+[Thu Mar  1 00:51:40 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:40 2012] [debug] GET /view/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:51:40 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:51:40 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:40 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:51:40 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:51:40 2012] [debug] 500 Internal Server Error (0.009818s, 101.854/s).
+[Thu Mar  1 00:51:40 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:40 2012] [debug] GET /view/css/prettify-mojo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:51:40 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:51:40 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:40 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:51:40 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:51:40 2012] [debug] 500 Internal Server Error (0.009775s, 102.302/s).
+[Thu Mar  1 00:51:40 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:40 2012] [debug] GET /view/js/prettify.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:51:40 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:51:40 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:40 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:51:40 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:51:40 2012] [debug] 500 Internal Server Error (0.009884s, 101.174/s).
+[Thu Mar  1 00:51:40 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:40 2012] [debug] GET /view/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:51:40 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:51:40 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:40 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:51:40 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:51:40 2012] [debug] 500 Internal Server Error (0.011068s, 90.351/s).
+[Thu Mar  1 00:51:40 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:40 2012] [debug] GET /view/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:51:40 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:51:40 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:40 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:51:40 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:51:40 2012] [debug] 500 Internal Server Error (0.009892s, 101.092/s).
+[Thu Mar  1 00:51:40 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:40 2012] [debug] GET /view/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:51:40 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:51:40 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:40 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:51:40 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:51:40 2012] [debug] 500 Internal Server Error (0.009374s, 106.678/s).
+[Thu Mar  1 00:51:40 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:40 2012] [debug] GET /view/mojolicious-pinstripe.gif (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Thu Mar  1 00:51:40 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Thu Mar  1 00:51:40 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+
+[Thu Mar  1 00:51:40 2012] [debug] Template "exception.development.html.ep" not found.
+[Thu Mar  1 00:51:40 2012] [debug] Template "exception.html.ep" not found.
+[Thu Mar  1 00:51:40 2012] [debug] 500 Internal Server Error (0.009934s, 100.664/s).
+[Thu Mar  1 00:51:40 2012] [error] Undefined subroutine &Yamc::Viewer::fileparser called at /usr/share/perl5/site_perl/Mojolicious/Routes.pm line 397
+

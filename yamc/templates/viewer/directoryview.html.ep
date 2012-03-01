@@ -1,0 +1,36 @@
+% layout 'default';
+% title 'Welcome';
+<h2><%= $message %></h2>
+<h3>Directories</h3>
+<ul>
+        <%
+                my $item;
+                foreach $item(@$directories)
+                {
+                        my $hidden = "";
+                        if ( $item =~ m/^\./ ){
+                                $hidden = "class='hidden'";
+                                }
+                        
+                        %>
+                        <li <%== $hidden %>><a href="<%== $basepath."/".$item %>"><%==$item%></a></li>
+                        
+                        <%
+                }
+        %>
+</ul>
+<h3>Files</h3>
+<ul>
+        <%
+                my $item2;
+                foreach $item2(@$files)
+                {
+                        my $hidden = "";
+                        if ( $item2 =~ m/^\./ ){
+                                $hidden = "class='hidden'";
+                                }
+
+                        %><li <%== $hidden %>><%= $item2 %></li><%
+                }
+        %>
+</ul>

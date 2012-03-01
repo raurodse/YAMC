@@ -6,9 +6,8 @@ sub welcome {
   my $self = shift;
 
   # Render template "example/welcome.html.ep" with message
-  my $aux = $self->stash('nombre');
   $self->render(
-    message => "Hola $aux");
+    message => "Hola");
 }
 1;
 sub adios {
