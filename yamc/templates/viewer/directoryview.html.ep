@@ -1,6 +1,7 @@
 % layout 'default';
 % title 'Welcome';
 <h2><%= $message %></h2>
+<h2><a href="/view/<%== $back %>">Volver</a>
 <h3>Directories</h3>
 <ul>
         <%
@@ -11,9 +12,18 @@
                         if ( $item =~ m/^\./ ){
                                 $hidden = "class='hidden'";
                                 }
+                        my $aux_href ;
+                        if ( $basepath ne "")
+                        {
+                                $aux_href = "$basepath/$item";
+                        }
+                        else
+                        {
+                                $aux_href = "$item";
+                        }
                         
                         %>
-                        <li <%== $hidden %>><a href="<%== $basepath."/".$item %>"><%==$item%></a></li>
+                        <li <%== $hidden %>><a href="/view/<%== $aux_href %>"><%==$item%></a></li>
                         
                         <%
                 }

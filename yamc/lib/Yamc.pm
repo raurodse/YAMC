@@ -14,7 +14,7 @@ sub startup {
   # Normal route to controller  
   #$r->route('/')->to('viewer#initial');
   $r->route('/')->to('viewer#root');
-  $r->route('view/*path')->to('viewer#view');
+  $r->route('/view/:path',path=>qr/.*/)->to('viewer#view');
 }
 
 1;

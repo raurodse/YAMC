@@ -3,8 +3,8 @@ use Mojo::Base 'Mojolicious::Controller';
 use File::Basename;
 sub view(){
         my $self = shift;
+
         my $initial_path = $self->stash('path');
-        print "$initial_path\n";
         my @list_directories;
         my @list_files;        
         opendir(D,"/$initial_path");
@@ -22,8 +22,10 @@ sub view(){
         my @order_files = sort {uc($a) cmp uc($b)} @list_files;
         my $filename;
         my $dirname;
-        ($filename,$dirname) = fileparser("/$initial_path");
-        $self->render(template=>'viewer/directoryview',directories=>\@order_directories,files=>\@order_files,message=>"$initial_path",basepath=>$filename);
+        $dirname = dirname($initial_path);
+        $self->stash(back=>$dirname);
+        $self->render(template=>'viewer/directoryview',directories=>\@order_directories,files=>\@order_files,message=>"$initial_path",basepath=>$initial_path);
+
 }
 sub root(){
         my $self = shift;
