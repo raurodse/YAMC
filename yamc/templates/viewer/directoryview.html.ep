@@ -39,8 +39,18 @@
                         if ( $item2 =~ m/^\./ ){
                                 $hidden = "class='hidden'";
                                 }
-
-                        %><li <%== $hidden %>><%= $item2 %></li><%
+                        my $aux_href ;
+                        if ( $basepath ne "")
+                        {
+                                $aux_href = "$basepath/$item2";
+                        }
+                        else
+                        {
+                                $aux_href = "$item2";
+                        }
+                        %>
+                        <li <%== $hidden %>><a href="/play/300/<%== $aux_href %>"><%==$item2%></a></li>
+                        <%
                 }
         %>
 </ul>

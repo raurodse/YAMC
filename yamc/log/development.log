@@ -5066,3 +5066,977 @@ syntax error at template "viewer/directoryview.html.ep" line 37.
 [Thu Mar  1 20:41:33 2012] [debug] GET /view/ (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
 [Thu Mar  1 20:41:33 2012] [debug] Dispatching "Yamc::Viewer->view".
 [Thu Mar  1 20:41:33 2012] [debug] 200 OK (0.001526s, 655.308/s).
+[Fri Mar  2 18:36:10 2012] [info] Server listening (http://*:3000)
+[Fri Mar  2 18:36:16 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Mar  2 18:36:16 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:36:16 2012] [debug] Dispatching "Yamc::Viewer->root".
+[Fri Mar  2 18:36:16 2012] [debug] Rendering template "viewer/rootview.html.ep".
+[Fri Mar  2 18:36:16 2012] [debug] Rendering template "layouts/default.html.ep".
+[Fri Mar  2 18:36:16 2012] [debug] 200 OK (0.026009s, 38.448/s).
+[Fri Mar  2 18:36:18 2012] [debug] GET /view/home/kbut (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:36:18 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Fri Mar  2 18:36:18 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Fri Mar  2 18:36:18 2012] [error] Global symbol "$aux_href" requires explicit package name at template "viewer/directoryview.html.ep" line 44, near "                        <%".
+39:                         if ( $item2 =~ m/^\./ ){
+40:                                 $hidden = "class='hidden'";
+41:                                 }
+42: 
+43:                         %>
+44:                         <li <%== $hidden %>><a href="/play/<%== $aux_href %>"><%==$item%></a></li>
+45:                         <%
+46:                 }
+47:         %>
+48: </ul>
+
+[Fri Mar  2 18:36:18 2012] [debug] Template "exception.development.html.ep" not found.
+[Fri Mar  2 18:36:18 2012] [debug] Template "exception.html.ep" not found.
+[Fri Mar  2 18:36:18 2012] [debug] Rendering inline template.
+[Fri Mar  2 18:36:18 2012] [debug] Rendering inline template.
+[Fri Mar  2 18:36:18 2012] [debug] 500 Internal Server Error (0.029929s, 33.412/s).
+[Fri Mar  2 18:36:18 2012] [debug] GET /view/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:36:18 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Fri Mar  2 18:36:18 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Fri Mar  2 18:36:18 2012] [error] Global symbol "$aux_href" requires explicit package name at template "viewer/directoryview.html.ep" line 44, near "                        <%".
+39:                         if ( $item2 =~ m/^\./ ){
+40:                                 $hidden = "class='hidden'";
+41:                                 }
+42: 
+43:                         %>
+44:                         <li <%== $hidden %>><a href="/play/<%== $aux_href %>"><%==$item%></a></li>
+45:                         <%
+46:                 }
+47:         %>
+48: </ul>
+
+[Fri Mar  2 18:36:18 2012] [debug] Template "exception.development.html.ep" not found.
+[Fri Mar  2 18:36:18 2012] [debug] Template "exception.html.ep" not found.
+[Fri Mar  2 18:36:18 2012] [debug] 500 Internal Server Error (0.014910s, 67.069/s).
+[Fri Mar  2 18:36:18 2012] [debug] GET /view/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:36:18 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Fri Mar  2 18:36:18 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Fri Mar  2 18:36:18 2012] [error] Global symbol "$aux_href" requires explicit package name at template "viewer/directoryview.html.ep" line 44, near "                        <%".
+39:                         if ( $item2 =~ m/^\./ ){
+40:                                 $hidden = "class='hidden'";
+41:                                 }
+42: 
+43:                         %>
+44:                         <li <%== $hidden %>><a href="/play/<%== $aux_href %>"><%==$item%></a></li>
+45:                         <%
+46:                 }
+47:         %>
+48: </ul>
+
+[Fri Mar  2 18:36:18 2012] [debug] Template "exception.development.html.ep" not found.
+[Fri Mar  2 18:36:18 2012] [debug] Template "exception.html.ep" not found.
+[Fri Mar  2 18:36:18 2012] [debug] 500 Internal Server Error (0.014596s, 68.512/s).
+[Fri Mar  2 18:36:18 2012] [debug] GET /view/css/prettify-mojo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:36:18 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Fri Mar  2 18:36:18 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Fri Mar  2 18:36:18 2012] [error] Global symbol "$aux_href" requires explicit package name at template "viewer/directoryview.html.ep" line 44, near "                        <%".
+39:                         if ( $item2 =~ m/^\./ ){
+40:                                 $hidden = "class='hidden'";
+41:                                 }
+42: 
+43:                         %>
+44:                         <li <%== $hidden %>><a href="/play/<%== $aux_href %>"><%==$item%></a></li>
+45:                         <%
+46:                 }
+47:         %>
+48: </ul>
+
+[Fri Mar  2 18:36:18 2012] [debug] Template "exception.development.html.ep" not found.
+[Fri Mar  2 18:36:18 2012] [debug] Template "exception.html.ep" not found.
+[Fri Mar  2 18:36:18 2012] [debug] 500 Internal Server Error (0.014562s, 68.672/s).
+[Fri Mar  2 18:36:18 2012] [debug] GET /view/js/prettify.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:36:18 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Fri Mar  2 18:36:18 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Fri Mar  2 18:36:18 2012] [error] Global symbol "$aux_href" requires explicit package name at template "viewer/directoryview.html.ep" line 44, near "                        <%".
+39:                         if ( $item2 =~ m/^\./ ){
+40:                                 $hidden = "class='hidden'";
+41:                                 }
+42: 
+43:                         %>
+44:                         <li <%== $hidden %>><a href="/play/<%== $aux_href %>"><%==$item%></a></li>
+45:                         <%
+46:                 }
+47:         %>
+48: </ul>
+
+[Fri Mar  2 18:36:18 2012] [debug] Template "exception.development.html.ep" not found.
+[Fri Mar  2 18:36:18 2012] [debug] Template "exception.html.ep" not found.
+[Fri Mar  2 18:36:18 2012] [debug] 500 Internal Server Error (0.014714s, 67.962/s).
+[Fri Mar  2 18:36:18 2012] [debug] GET /view/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:36:18 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Fri Mar  2 18:36:18 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Fri Mar  2 18:36:18 2012] [error] Global symbol "$aux_href" requires explicit package name at template "viewer/directoryview.html.ep" line 44, near "                        <%".
+39:                         if ( $item2 =~ m/^\./ ){
+40:                                 $hidden = "class='hidden'";
+41:                                 }
+42: 
+43:                         %>
+44:                         <li <%== $hidden %>><a href="/play/<%== $aux_href %>"><%==$item%></a></li>
+45:                         <%
+46:                 }
+47:         %>
+48: </ul>
+
+[Fri Mar  2 18:36:18 2012] [debug] Template "exception.development.html.ep" not found.
+[Fri Mar  2 18:36:18 2012] [debug] Template "exception.html.ep" not found.
+[Fri Mar  2 18:36:18 2012] [debug] 500 Internal Server Error (0.014651s, 68.255/s).
+[Fri Mar  2 18:36:18 2012] [debug] GET /view/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:36:18 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Fri Mar  2 18:36:18 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Fri Mar  2 18:36:18 2012] [error] Global symbol "$aux_href" requires explicit package name at template "viewer/directoryview.html.ep" line 44, near "                        <%".
+39:                         if ( $item2 =~ m/^\./ ){
+40:                                 $hidden = "class='hidden'";
+41:                                 }
+42: 
+43:                         %>
+44:                         <li <%== $hidden %>><a href="/play/<%== $aux_href %>"><%==$item%></a></li>
+45:                         <%
+46:                 }
+47:         %>
+48: </ul>
+
+[Fri Mar  2 18:36:18 2012] [debug] Template "exception.development.html.ep" not found.
+[Fri Mar  2 18:36:18 2012] [debug] Template "exception.html.ep" not found.
+[Fri Mar  2 18:36:18 2012] [debug] 500 Internal Server Error (0.014391s, 69.488/s).
+[Fri Mar  2 18:36:18 2012] [debug] GET /view/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:36:18 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Fri Mar  2 18:36:18 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Fri Mar  2 18:36:18 2012] [error] Global symbol "$aux_href" requires explicit package name at template "viewer/directoryview.html.ep" line 44, near "                        <%".
+39:                         if ( $item2 =~ m/^\./ ){
+40:                                 $hidden = "class='hidden'";
+41:                                 }
+42: 
+43:                         %>
+44:                         <li <%== $hidden %>><a href="/play/<%== $aux_href %>"><%==$item%></a></li>
+45:                         <%
+46:                 }
+47:         %>
+48: </ul>
+
+[Fri Mar  2 18:36:18 2012] [debug] Template "exception.development.html.ep" not found.
+[Fri Mar  2 18:36:18 2012] [debug] Template "exception.html.ep" not found.
+[Fri Mar  2 18:36:18 2012] [debug] 500 Internal Server Error (0.012921s, 77.393/s).
+[Fri Mar  2 18:36:18 2012] [debug] GET /view/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:36:18 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Fri Mar  2 18:36:18 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Fri Mar  2 18:36:18 2012] [error] Global symbol "$aux_href" requires explicit package name at template "viewer/directoryview.html.ep" line 44, near "                        <%".
+39:                         if ( $item2 =~ m/^\./ ){
+40:                                 $hidden = "class='hidden'";
+41:                                 }
+42: 
+43:                         %>
+44:                         <li <%== $hidden %>><a href="/play/<%== $aux_href %>"><%==$item%></a></li>
+45:                         <%
+46:                 }
+47:         %>
+48: </ul>
+
+[Fri Mar  2 18:36:18 2012] [debug] Template "exception.development.html.ep" not found.
+[Fri Mar  2 18:36:18 2012] [debug] Template "exception.html.ep" not found.
+[Fri Mar  2 18:36:18 2012] [debug] 500 Internal Server Error (0.012807s, 78.082/s).
+[Fri Mar  2 18:36:18 2012] [debug] GET /view/mojolicious-pinstripe.gif (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:36:18 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Fri Mar  2 18:36:18 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Fri Mar  2 18:36:18 2012] [error] Global symbol "$aux_href" requires explicit package name at template "viewer/directoryview.html.ep" line 44, near "                        <%".
+39:                         if ( $item2 =~ m/^\./ ){
+40:                                 $hidden = "class='hidden'";
+41:                                 }
+42: 
+43:                         %>
+44:                         <li <%== $hidden %>><a href="/play/<%== $aux_href %>"><%==$item%></a></li>
+45:                         <%
+46:                 }
+47:         %>
+48: </ul>
+
+[Fri Mar  2 18:36:18 2012] [debug] Template "exception.development.html.ep" not found.
+[Fri Mar  2 18:36:18 2012] [debug] Template "exception.html.ep" not found.
+[Fri Mar  2 18:36:18 2012] [debug] 500 Internal Server Error (0.013182s, 75.861/s).
+[Fri Mar  2 18:36:44 2012] [info] Server listening (http://*:3000)
+[Fri Mar  2 18:36:51 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Mar  2 18:36:51 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:36:51 2012] [debug] Dispatching "Yamc::Viewer->root".
+[Fri Mar  2 18:36:51 2012] [debug] Rendering template "viewer/rootview.html.ep".
+[Fri Mar  2 18:36:51 2012] [debug] Rendering template "layouts/default.html.ep".
+[Fri Mar  2 18:36:51 2012] [debug] 200 OK (0.007808s, 128.074/s).
+[Fri Mar  2 18:36:51 2012] [debug] GET /view/home/kbut (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:36:51 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Fri Mar  2 18:36:51 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Fri Mar  2 18:36:51 2012] [debug] Rendering template "layouts/default.html.ep".
+[Fri Mar  2 18:36:51 2012] [debug] 200 OK (0.008464s, 118.147/s).
+[Fri Mar  2 18:37:06 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Mar  2 18:37:06 2012] [debug] GET /view/home/kbut (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:37:06 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Fri Mar  2 18:37:06 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Fri Mar  2 18:37:06 2012] [debug] Rendering template "layouts/default.html.ep".
+[Fri Mar  2 18:37:06 2012] [debug] 200 OK (0.010367s, 96.460/s).
+[Fri Mar  2 18:37:09 2012] [debug] GET /play/home/kbut/ (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:37:09 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:37:09 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:37:09 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:37:09 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:37:09 2012] [debug] Rendering inline template.
+[Fri Mar  2 18:37:09 2012] [debug] Rendering inline template.
+[Fri Mar  2 18:37:09 2012] [debug] 404 Not Found (0.016840s, 59.382/s).
+[Fri Mar  2 18:37:09 2012] [debug] GET /play/css/prettify-mojo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:37:09 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:37:09 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:37:09 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:37:09 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:37:09 2012] [debug] 404 Not Found (0.006935s, 144.196/s).
+[Fri Mar  2 18:37:09 2012] [debug] GET /play/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:37:09 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:37:09 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:37:09 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:37:09 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:37:09 2012] [debug] 404 Not Found (0.006599s, 151.538/s).
+[Fri Mar  2 18:37:09 2012] [debug] GET /play/js/prettify.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:37:09 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:37:09 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:37:09 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:37:09 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:37:09 2012] [debug] 404 Not Found (0.006350s, 157.480/s).
+[Fri Mar  2 18:37:09 2012] [debug] GET /play/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:37:09 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:37:09 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:37:09 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:37:09 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:37:09 2012] [debug] 404 Not Found (0.006282s, 159.185/s).
+[Fri Mar  2 18:37:09 2012] [debug] GET /play/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:37:09 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:37:09 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:37:09 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:37:09 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:37:09 2012] [debug] 404 Not Found (0.006297s, 158.806/s).
+[Fri Mar  2 18:37:09 2012] [debug] GET /play/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:37:09 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:37:09 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:37:09 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:37:09 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:37:09 2012] [debug] 404 Not Found (0.006624s, 150.966/s).
+[Fri Mar  2 18:37:09 2012] [debug] GET /play/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:37:09 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:37:09 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:37:09 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:37:09 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:37:09 2012] [debug] 404 Not Found (0.006483s, 154.250/s).
+[Fri Mar  2 18:37:09 2012] [debug] GET /play/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:37:09 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:37:09 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:37:09 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:37:09 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:37:09 2012] [debug] 404 Not Found (0.006216s, 160.875/s).
+[Fri Mar  2 18:37:26 2012] [info] Server listening (http://*:3000)
+[Fri Mar  2 18:37:30 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Mar  2 18:37:30 2012] [debug] GET /view/home/kbut (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:37:30 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Fri Mar  2 18:37:30 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Fri Mar  2 18:37:30 2012] [debug] Rendering template "layouts/default.html.ep".
+[Fri Mar  2 18:37:30 2012] [debug] 200 OK (0.010103s, 98.981/s).
+[Fri Mar  2 18:37:31 2012] [debug] GET /play/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:37:31 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:37:31 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:37:31 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:37:31 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:37:31 2012] [debug] Rendering inline template.
+[Fri Mar  2 18:37:31 2012] [debug] Rendering inline template.
+[Fri Mar  2 18:37:31 2012] [debug] 404 Not Found (0.016817s, 59.464/s).
+[Fri Mar  2 18:37:31 2012] [debug] GET /play/css/prettify-mojo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:37:31 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:37:31 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:37:31 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:37:31 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:37:31 2012] [debug] 404 Not Found (0.007680s, 130.208/s).
+[Fri Mar  2 18:37:31 2012] [debug] GET /play/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:37:31 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:37:31 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:37:31 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:37:31 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:37:31 2012] [debug] 404 Not Found (0.007550s, 132.450/s).
+[Fri Mar  2 18:37:31 2012] [debug] GET /play/js/prettify.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:37:31 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:37:31 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:37:31 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:37:31 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:37:31 2012] [debug] 404 Not Found (0.007503s, 133.280/s).
+[Fri Mar  2 18:37:31 2012] [debug] GET /play/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:37:31 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:37:31 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:37:31 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:37:31 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:37:31 2012] [debug] 404 Not Found (0.013079s, 76.458/s).
+[Fri Mar  2 18:37:31 2012] [debug] GET /play/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:37:31 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:37:31 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:37:31 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:37:31 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:37:31 2012] [debug] 404 Not Found (0.007615s, 131.320/s).
+[Fri Mar  2 18:37:31 2012] [debug] GET /play/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:37:31 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:37:31 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:37:31 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:37:31 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:37:31 2012] [debug] 404 Not Found (0.007358s, 135.906/s).
+[Fri Mar  2 18:37:31 2012] [debug] GET /play/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:37:31 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:37:31 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:37:31 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:37:31 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:37:31 2012] [debug] 404 Not Found (0.007331s, 136.407/s).
+[Fri Mar  2 18:37:31 2012] [debug] GET /play/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:37:31 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:37:31 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:37:31 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:37:31 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:37:31 2012] [debug] 404 Not Found (0.007387s, 135.373/s).
+[Fri Mar  2 18:38:19 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Mar  2 18:38:19 2012] [debug] GET /view/home/kbut (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:38:19 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Fri Mar  2 18:38:19 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Fri Mar  2 18:38:19 2012] [debug] Rendering template "layouts/default.html.ep".
+[Fri Mar  2 18:38:19 2012] [debug] 200 OK (0.009102s, 109.866/s).
+[Fri Mar  2 18:38:20 2012] [debug] GET /play/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:38:20 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:38:20 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:38:20 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:38:20 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:38:20 2012] [debug] Rendering inline template.
+[Fri Mar  2 18:38:20 2012] [debug] Rendering inline template.
+[Fri Mar  2 18:38:20 2012] [debug] 404 Not Found (0.016772s, 59.623/s).
+[Fri Mar  2 18:38:21 2012] [debug] GET /play/css/prettify-mojo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:38:21 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:38:21 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:38:21 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:38:21 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:38:21 2012] [debug] 404 Not Found (0.006908s, 144.760/s).
+[Fri Mar  2 18:38:21 2012] [debug] GET /play/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:38:21 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:38:21 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:38:21 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:38:21 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:38:21 2012] [debug] 404 Not Found (0.006630s, 150.830/s).
+[Fri Mar  2 18:38:21 2012] [debug] GET /play/js/prettify.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:38:21 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:38:21 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:38:21 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:38:21 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:38:21 2012] [debug] 404 Not Found (0.006351s, 157.456/s).
+[Fri Mar  2 18:38:21 2012] [debug] GET /play/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:38:21 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:38:21 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:38:21 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:38:21 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:38:21 2012] [debug] 404 Not Found (0.006273s, 159.413/s).
+[Fri Mar  2 18:38:21 2012] [debug] GET /play/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:38:21 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:38:21 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:38:21 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:38:21 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:38:21 2012] [debug] 404 Not Found (0.006370s, 156.986/s).
+[Fri Mar  2 18:38:21 2012] [debug] GET /play/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:38:21 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:38:21 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:38:21 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:38:21 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:38:21 2012] [debug] 404 Not Found (0.006962s, 143.637/s).
+[Fri Mar  2 18:38:21 2012] [debug] GET /play/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:38:21 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:38:21 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:38:21 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:38:21 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:38:21 2012] [debug] 404 Not Found (0.007482s, 133.654/s).
+[Fri Mar  2 18:38:21 2012] [debug] GET /play/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:38:21 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:38:21 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:38:21 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:38:21 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:38:21 2012] [debug] 404 Not Found (0.007214s, 138.619/s).
+[Fri Mar  2 18:41:18 2012] [info] Server listening (http://*:3000)
+[Fri Mar  2 18:41:27 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Mar  2 18:41:27 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:41:27 2012] [debug] Dispatching "Yamc::Viewer->root".
+[Fri Mar  2 18:41:27 2012] [debug] Rendering template "viewer/rootview.html.ep".
+[Fri Mar  2 18:41:27 2012] [debug] Rendering template "layouts/default.html.ep".
+[Fri Mar  2 18:41:27 2012] [debug] 200 OK (0.007223s, 138.447/s).
+[Fri Mar  2 18:41:28 2012] [debug] GET /view/home/kbut (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:41:28 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Fri Mar  2 18:41:28 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Fri Mar  2 18:41:28 2012] [debug] Rendering template "layouts/default.html.ep".
+[Fri Mar  2 18:41:28 2012] [debug] 200 OK (0.008278s, 120.802/s).
+[Fri Mar  2 18:41:30 2012] [debug] GET /play/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:41:30 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:41:30 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:41:30 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:41:30 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:41:30 2012] [debug] Rendering inline template.
+[Fri Mar  2 18:41:30 2012] [debug] Rendering inline template.
+[Fri Mar  2 18:41:30 2012] [debug] 404 Not Found (0.016917s, 59.112/s).
+[Fri Mar  2 18:41:30 2012] [debug] GET /play/css/prettify-mojo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:41:30 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:41:30 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:41:30 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:41:30 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:41:30 2012] [debug] 404 Not Found (0.006946s, 143.968/s).
+[Fri Mar  2 18:41:30 2012] [debug] GET /play/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:41:30 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:41:30 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:41:30 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:41:30 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:41:30 2012] [debug] 404 Not Found (0.006572s, 152.161/s).
+[Fri Mar  2 18:41:30 2012] [debug] GET /play/js/prettify.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:41:30 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:41:30 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:41:30 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:41:30 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:41:30 2012] [debug] 404 Not Found (0.006413s, 155.933/s).
+[Fri Mar  2 18:41:30 2012] [debug] GET /play/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:41:30 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:41:30 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:41:30 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:41:30 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:41:30 2012] [debug] 404 Not Found (0.006323s, 158.153/s).
+[Fri Mar  2 18:41:30 2012] [debug] GET /play/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:41:30 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:41:30 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:41:30 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:41:30 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:41:30 2012] [debug] 404 Not Found (0.006300s, 158.730/s).
+[Fri Mar  2 18:41:30 2012] [debug] GET /play/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:41:30 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:41:30 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:41:30 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:41:30 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:41:30 2012] [debug] 404 Not Found (0.006888s, 145.180/s).
+[Fri Mar  2 18:41:30 2012] [debug] GET /play/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:41:30 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:41:30 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:41:30 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:41:30 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:41:30 2012] [debug] 404 Not Found (0.007279s, 137.382/s).
+[Fri Mar  2 18:41:30 2012] [debug] GET /play/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:41:30 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:41:30 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:41:30 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:41:30 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:41:30 2012] [debug] 404 Not Found (0.006773s, 147.645/s).
+[Fri Mar  2 18:42:53 2012] [info] Server listening (http://*:3000)
+[Fri Mar  2 18:42:57 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Mar  2 18:42:57 2012] [debug] GET /play/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:42:57 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:42:57 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:42:57 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:42:57 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:42:57 2012] [debug] Rendering inline template.
+[Fri Mar  2 18:42:57 2012] [debug] Rendering inline template.
+[Fri Mar  2 18:42:57 2012] [debug] 404 Not Found (0.019728s, 50.689/s).
+[Fri Mar  2 18:42:57 2012] [debug] GET /play/css/prettify-mojo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:42:57 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:42:57 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:42:57 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:42:57 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:42:57 2012] [debug] 404 Not Found (0.006954s, 143.802/s).
+[Fri Mar  2 18:42:57 2012] [debug] GET /play/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:42:57 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:42:57 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:42:57 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:42:57 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:42:57 2012] [debug] 404 Not Found (0.006691s, 149.454/s).
+[Fri Mar  2 18:42:57 2012] [debug] GET /play/js/prettify.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:42:57 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:42:57 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:42:57 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:42:57 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:42:57 2012] [debug] 404 Not Found (0.006317s, 158.303/s).
+[Fri Mar  2 18:42:57 2012] [debug] GET /play/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:42:57 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:42:57 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:42:57 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:42:57 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:42:58 2012] [debug] 404 Not Found (0.006304s, 158.629/s).
+[Fri Mar  2 18:42:58 2012] [debug] GET /play/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:42:58 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:42:58 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:42:58 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:42:58 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:42:58 2012] [debug] 404 Not Found (0.006251s, 159.974/s).
+[Fri Mar  2 18:42:58 2012] [debug] GET /play/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:42:58 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:42:58 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:42:58 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:42:58 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:42:58 2012] [debug] 404 Not Found (0.006976s, 143.349/s).
+[Fri Mar  2 18:42:58 2012] [debug] GET /play/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:42:58 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:42:58 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:42:58 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:42:58 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:42:58 2012] [debug] 404 Not Found (0.007158s, 139.704/s).
+[Fri Mar  2 18:42:58 2012] [debug] GET /play/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:42:58 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:42:58 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:42:58 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:42:58 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:42:58 2012] [debug] 404 Not Found (0.007144s, 139.978/s).
+[Fri Mar  2 18:43:43 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Mar  2 18:43:43 2012] [debug] GET /view/home/kbut (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:43:43 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Fri Mar  2 18:43:43 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Fri Mar  2 18:43:43 2012] [debug] Rendering template "layouts/default.html.ep".
+[Fri Mar  2 18:43:43 2012] [debug] 200 OK (0.009827s, 101.760/s).
+[Fri Mar  2 18:43:45 2012] [debug] GET /play/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:43:45 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:43:45 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:43:45 2012] [debug] Rendering inline template.
+[Fri Mar  2 18:43:45 2012] [debug] Rendering inline template.
+[Fri Mar  2 18:43:45 2012] [debug] 404 Not Found (0.016599s, 60.245/s).
+[Fri Mar  2 18:44:01 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:44:01 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:44:01 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:44:01 2012] [debug] 404 Not Found (0.006797s, 147.124/s).
+[Fri Mar  2 18:44:12 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Mar  2 18:44:12 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:44:12 2012] [debug] Dispatching "Yamc::Viewer->root".
+[Fri Mar  2 18:44:12 2012] [debug] Rendering template "viewer/rootview.html.ep".
+[Fri Mar  2 18:44:12 2012] [debug] Rendering template "layouts/default.html.ep".
+[Fri Mar  2 18:44:12 2012] [debug] 200 OK (0.007950s, 125.786/s).
+[Fri Mar  2 18:44:13 2012] [debug] GET /view/home/kbut (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:44:13 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Fri Mar  2 18:44:13 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Fri Mar  2 18:44:13 2012] [debug] Rendering template "layouts/default.html.ep".
+[Fri Mar  2 18:44:13 2012] [debug] 200 OK (0.008252s, 121.183/s).
+[Fri Mar  2 18:44:15 2012] [debug] GET /play/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:44:15 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:44:15 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:44:15 2012] [debug] Rendering inline template.
+[Fri Mar  2 18:44:15 2012] [debug] Rendering inline template.
+[Fri Mar  2 18:44:15 2012] [debug] 404 Not Found (0.015565s, 64.247/s).
+[Fri Mar  2 18:44:42 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Mar  2 18:44:42 2012] [debug] GET /play/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:44:42 2012] [debug] Dispatching "Yamc::Viewer->root".
+[Fri Mar  2 18:44:42 2012] [debug] Rendering template "viewer/rootview.html.ep".
+[Fri Mar  2 18:44:42 2012] [debug] Rendering template "layouts/default.html.ep".
+[Fri Mar  2 18:44:42 2012] [debug] 200 OK (0.007508s, 133.191/s).
+[Fri Mar  2 18:44:57 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Mar  2 18:44:57 2012] [debug] GET /view/home/kbut (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:44:57 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Fri Mar  2 18:44:57 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Fri Mar  2 18:44:57 2012] [debug] Rendering template "layouts/default.html.ep".
+[Fri Mar  2 18:44:57 2012] [debug] 200 OK (0.008977s, 111.396/s).
+[Fri Mar  2 18:44:58 2012] [debug] GET /play/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:44:58 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:44:58 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:44:58 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:44:58 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:44:58 2012] [debug] Rendering inline template.
+[Fri Mar  2 18:44:58 2012] [debug] Rendering inline template.
+[Fri Mar  2 18:44:58 2012] [debug] 404 Not Found (0.018218s, 54.891/s).
+[Fri Mar  2 18:44:58 2012] [debug] GET /play/css/prettify-mojo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:44:58 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:44:58 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:44:58 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:44:58 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:44:58 2012] [debug] 404 Not Found (0.007091s, 141.024/s).
+[Fri Mar  2 18:44:58 2012] [debug] GET /play/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:44:58 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:44:58 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:44:58 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:44:58 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:44:58 2012] [debug] 404 Not Found (0.006803s, 146.994/s).
+[Fri Mar  2 18:44:58 2012] [debug] GET /play/js/prettify.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:44:58 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:44:58 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:44:58 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:44:58 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:44:58 2012] [debug] 404 Not Found (0.006410s, 156.006/s).
+[Fri Mar  2 18:44:58 2012] [debug] GET /play/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:44:58 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:44:58 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:44:58 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:44:58 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:44:58 2012] [debug] 404 Not Found (0.006409s, 156.031/s).
+[Fri Mar  2 18:44:58 2012] [debug] GET /play/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:44:58 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:44:58 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:44:58 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:44:58 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:44:58 2012] [debug] 404 Not Found (0.006507s, 153.681/s).
+[Fri Mar  2 18:44:58 2012] [debug] GET /play/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:44:58 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:44:58 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:44:58 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:44:58 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:44:58 2012] [debug] 404 Not Found (0.006744s, 148.280/s).
+[Fri Mar  2 18:44:58 2012] [debug] GET /play/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:44:58 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:44:58 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:44:58 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:44:58 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:44:58 2012] [debug] 404 Not Found (0.006807s, 146.908/s).
+[Fri Mar  2 18:44:58 2012] [debug] GET /play/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:44:58 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:44:58 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:44:58 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:44:58 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:44:58 2012] [debug] 404 Not Found (0.006698s, 149.298/s).
+[Fri Mar  2 18:45:18 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Mar  2 18:45:18 2012] [debug] GET /play/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:45:18 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:45:18 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:45:18 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:45:18 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:45:18 2012] [debug] Rendering inline template.
+[Fri Mar  2 18:45:18 2012] [debug] Rendering inline template.
+[Fri Mar  2 18:45:18 2012] [debug] 404 Not Found (0.019315s, 51.773/s).
+[Fri Mar  2 18:45:19 2012] [debug] GET /play/css/prettify-mojo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:45:19 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:45:19 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:45:19 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:45:19 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:45:19 2012] [debug] 404 Not Found (0.007729s, 129.383/s).
+[Fri Mar  2 18:45:19 2012] [debug] GET /play/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:45:19 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:45:19 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:45:19 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:45:19 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:45:19 2012] [debug] 404 Not Found (0.007502s, 133.298/s).
+[Fri Mar  2 18:45:19 2012] [debug] GET /play/js/prettify.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:45:19 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:45:19 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:45:19 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:45:19 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:45:19 2012] [debug] 404 Not Found (0.007512s, 133.120/s).
+[Fri Mar  2 18:45:19 2012] [debug] GET /play/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:45:19 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:45:19 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:45:19 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:45:19 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:45:19 2012] [debug] 404 Not Found (0.007524s, 132.908/s).
+[Fri Mar  2 18:45:19 2012] [debug] GET /play/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:45:19 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:45:19 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:45:19 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:45:19 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:45:19 2012] [debug] 404 Not Found (0.007531s, 132.784/s).
+[Fri Mar  2 18:45:19 2012] [debug] GET /play/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:45:19 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:45:19 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:45:19 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:45:19 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:45:19 2012] [debug] 404 Not Found (0.006688s, 149.522/s).
+[Fri Mar  2 18:45:19 2012] [debug] GET /play/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:45:19 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:45:19 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:45:19 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:45:19 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:45:19 2012] [debug] 404 Not Found (0.006720s, 148.810/s).
+[Fri Mar  2 18:45:19 2012] [debug] GET /play/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:45:19 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:45:19 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:45:19 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:45:19 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:45:19 2012] [debug] 404 Not Found (0.006613s, 151.217/s).
+[Fri Mar  2 18:45:23 2012] [info] Server listening (http://*:3000)
+[Fri Mar  2 18:45:27 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Mar  2 18:45:27 2012] [debug] GET /view/home/kbut (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:45:27 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Fri Mar  2 18:45:27 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Fri Mar  2 18:45:27 2012] [debug] Rendering template "layouts/default.html.ep".
+[Fri Mar  2 18:45:27 2012] [debug] 200 OK (0.009919s, 100.817/s).
+[Fri Mar  2 18:45:29 2012] [debug] GET /play/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:45:29 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:45:29 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:45:29 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:45:29 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:45:29 2012] [debug] Rendering inline template.
+[Fri Mar  2 18:45:29 2012] [debug] Rendering inline template.
+[Fri Mar  2 18:45:29 2012] [debug] 404 Not Found (0.018443s, 54.221/s).
+[Fri Mar  2 18:45:29 2012] [debug] GET /play/css/prettify-mojo.css (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:45:29 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:45:29 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:45:29 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:45:29 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:45:29 2012] [debug] 404 Not Found (0.007117s, 140.509/s).
+[Fri Mar  2 18:45:29 2012] [debug] GET /play/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:45:29 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:45:29 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:45:29 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:45:29 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:45:29 2012] [debug] 404 Not Found (0.006823s, 146.563/s).
+[Fri Mar  2 18:45:29 2012] [debug] GET /play/js/prettify.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:45:29 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:45:29 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:45:29 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:45:29 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:45:29 2012] [debug] 404 Not Found (0.006542s, 152.858/s).
+[Fri Mar  2 18:45:29 2012] [debug] GET /play/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:45:29 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:45:29 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:45:29 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:45:29 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:45:29 2012] [debug] 404 Not Found (0.006548s, 152.718/s).
+[Fri Mar  2 18:45:29 2012] [debug] GET /play/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:45:29 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:45:29 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:45:29 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:45:29 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:45:29 2012] [debug] 404 Not Found (0.006579s, 151.999/s).
+[Fri Mar  2 18:45:29 2012] [debug] GET /play/js/jquery.js (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:45:29 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:45:29 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:45:29 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:45:29 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:45:29 2012] [debug] 404 Not Found (0.006642s, 150.557/s).
+[Fri Mar  2 18:45:29 2012] [debug] GET /play/mojolicious-white.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:45:29 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:45:29 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:45:29 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:45:29 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:45:29 2012] [debug] 404 Not Found (0.006612s, 151.240/s).
+[Fri Mar  2 18:45:29 2012] [debug] GET /play/mojolicious-black.png (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:45:29 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:45:29 2012] [debug] Template "player/play.html.ep" not found.
+[Fri Mar  2 18:45:29 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:45:29 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:45:29 2012] [debug] 404 Not Found (0.006358s, 157.282/s).
+[Fri Mar  2 18:45:47 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Mar  2 18:45:47 2012] [debug] GET /play/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:45:47 2012] [debug] Dispatching "Yamc::Viewer->root".
+[Fri Mar  2 18:45:47 2012] [debug] Rendering template "viewer/rootview.html.ep".
+[Fri Mar  2 18:45:47 2012] [debug] Rendering template "layouts/default.html.ep".
+[Fri Mar  2 18:45:47 2012] [debug] 200 OK (0.007006s, 142.735/s).
+[Fri Mar  2 18:46:04 2012] [debug] GET /play/ (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:46:04 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:46:04 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:46:04 2012] [debug] Rendering inline template.
+[Fri Mar  2 18:46:04 2012] [debug] Rendering inline template.
+[Fri Mar  2 18:46:04 2012] [debug] 404 Not Found (0.016710s, 59.844/s).
+[Fri Mar  2 18:46:06 2012] [debug] GET /play (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:46:06 2012] [debug] Template "not_found.development.html.ep" not found.
+[Fri Mar  2 18:46:06 2012] [debug] Template "not_found.html.ep" not found.
+[Fri Mar  2 18:46:06 2012] [debug] 404 Not Found (0.006762s, 147.885/s).
+[Fri Mar  2 18:46:09 2012] [debug] GET /play/a (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:46:09 2012] [debug] Dispatching "Yamc::Viewer->root".
+[Fri Mar  2 18:46:09 2012] [debug] 200 OK (0.001487s, 672.495/s).
+[Fri Mar  2 18:46:14 2012] [debug] GET /play/a/ (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:46:14 2012] [debug] Dispatching "Yamc::Viewer->root".
+[Fri Mar  2 18:46:14 2012] [debug] 200 OK (0.001492s, 670.241/s).
+[Fri Mar  2 18:46:16 2012] [debug] GET /play/a/b (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:46:16 2012] [debug] Dispatching "Yamc::Viewer->root".
+[Fri Mar  2 18:46:16 2012] [debug] 200 OK (0.001502s, 665.779/s).
+[Fri Mar  2 18:46:24 2012] [debug] GET /play/a/b/c.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:46:24 2012] [debug] Dispatching "Yamc::Viewer->root".
+[Fri Mar  2 18:46:24 2012] [debug] 200 OK (0.001532s, 652.742/s).
+[Fri Mar  2 18:46:56 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Mar  2 18:46:56 2012] [debug] GET /play/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:46:56 2012] [debug] Dispatching "Yamc::Viewer->root".
+[Fri Mar  2 18:46:56 2012] [debug] Rendering template "viewer/rootview.html.ep".
+[Fri Mar  2 18:46:56 2012] [debug] Rendering template "layouts/default.html.ep".
+[Fri Mar  2 18:46:56 2012] [debug] 200 OK (0.007875s, 126.984/s).
+[Fri Mar  2 18:47:01 2012] [info] Server listening (http://*:3000)
+[Fri Mar  2 18:47:09 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Mar  2 18:47:09 2012] [debug] GET /play/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:47:09 2012] [debug] Dispatching "Yamc::Viewer->root".
+[Fri Mar  2 18:47:09 2012] [debug] Rendering template "viewer/rootview.html.ep".
+[Fri Mar  2 18:47:09 2012] [debug] Rendering template "layouts/default.html.ep".
+[Fri Mar  2 18:47:09 2012] [debug] 200 OK (0.007645s, 130.804/s).
+[Fri Mar  2 18:47:12 2012] [debug] GET /view/home/kbut (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:47:12 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Fri Mar  2 18:47:12 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Fri Mar  2 18:47:12 2012] [debug] Rendering template "layouts/default.html.ep".
+[Fri Mar  2 18:47:12 2012] [debug] 200 OK (0.007475s, 133.779/s).
+[Fri Mar  2 18:47:12 2012] [debug] GET /play/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:47:12 2012] [debug] Dispatching "Yamc::Viewer->root".
+[Fri Mar  2 18:47:12 2012] [debug] 200 OK (0.001276s, 783.699/s).
+[Fri Mar  2 18:49:06 2012] [info] Server listening (http://*:3000)
+[Fri Mar  2 18:49:08 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Mar  2 18:49:08 2012] [debug] GET /view/home/kbut (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:49:08 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Fri Mar  2 18:49:08 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Fri Mar  2 18:49:08 2012] [debug] Rendering template "layouts/default.html.ep".
+[Fri Mar  2 18:49:08 2012] [debug] 200 OK (0.009127s, 109.565/s).
+[Fri Mar  2 18:49:10 2012] [debug] GET /play/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:49:10 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:49:17 2012] [debug] Rendering template "viewer/rootview.html.ep".
+[Fri Mar  2 18:49:17 2012] [debug] Rendering template "layouts/default.html.ep".
+[Fri Mar  2 18:49:17 2012] [debug] 200 OK (7.153238s, 0.140/s).
+[Fri Mar  2 18:51:50 2012] [info] Server listening (http://*:3000)
+[Fri Mar  2 18:51:53 2012] [debug] Your secret passphrase needs to be changed!!!
+[Fri Mar  2 18:51:53 2012] [debug] GET /play/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:51:53 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:51:57 2012] [debug] Rendering template "player/play.html.ep".
+[Fri Mar  2 18:51:57 2012] [debug] Rendering template "layouts/default.html.ep".
+[Fri Mar  2 18:51:57 2012] [debug] 200 OK (4.429939s, 0.226/s).
+[Fri Mar  2 18:52:09 2012] [debug] GET /play/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:52:09 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:52:14 2012] [debug] 200 OK (5.220778s, 0.192/s).
+[Fri Mar  2 18:52:27 2012] [debug] GET /play/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:52:27 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:52:31 2012] [debug] 200 OK (4.958763s, 0.202/s).
+[Fri Mar  2 18:54:01 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:54:01 2012] [debug] Dispatching "Yamc::Viewer->root".
+[Fri Mar  2 18:54:01 2012] [debug] Rendering template "viewer/rootview.html.ep".
+[Fri Mar  2 18:54:01 2012] [debug] Rendering template "layouts/default.html.ep".
+[Fri Mar  2 18:54:01 2012] [debug] 200 OK (0.006708s, 149.076/s).
+[Fri Mar  2 18:54:04 2012] [debug] GET /view/home/kbut (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:54:04 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Fri Mar  2 18:54:04 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Fri Mar  2 18:54:04 2012] [debug] Rendering template "layouts/default.html.ep".
+[Fri Mar  2 18:54:04 2012] [debug] 200 OK (0.008125s, 123.077/s).
+[Fri Mar  2 18:54:06 2012] [debug] GET /play/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Fri Mar  2 18:54:06 2012] [debug] Dispatching "Yamc::Player->play".
+[Fri Mar  2 18:54:17 2012] [debug] 200 OK (11.246931s, 0.089/s).
+[Sat Mar  3 11:59:24 2012] [info] Server listening (http://*:3000)
+[Sat Mar  3 11:59:32 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar  3 11:59:32 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 11:59:32 2012] [debug] Dispatching "Yamc::Viewer->root".
+[Sat Mar  3 11:59:32 2012] [debug] Rendering template "viewer/rootview.html.ep".
+[Sat Mar  3 11:59:32 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Mar  3 11:59:32 2012] [debug] 200 OK (0.031712s, 31.534/s).
+[Sat Mar  3 11:59:34 2012] [debug] GET /view/home/kbut (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 11:59:34 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Sat Mar  3 11:59:34 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Sat Mar  3 11:59:34 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Mar  3 11:59:34 2012] [debug] 200 OK (0.008136s, 122.911/s).
+[Sat Mar  3 11:59:36 2012] [debug] GET /play/000.0/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 11:59:36 2012] [debug] Dispatching "Yamc::Player->play".
+[Sat Mar  3 11:59:40 2012] [debug] Rendering template "player/play.html.ep".
+[Sat Mar  3 11:59:40 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Mar  3 11:59:40 2012] [debug] 200 OK (3.975017s, 0.252/s).
+[Sat Mar  3 12:01:24 2012] [info] Server listening (http://*:3000)
+[Sat Mar  3 12:01:28 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar  3 12:01:28 2012] [debug] GET /view/home/kbut (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 12:01:28 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Sat Mar  3 12:01:28 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Sat Mar  3 12:01:28 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Mar  3 12:01:28 2012] [debug] 200 OK (0.010137s, 98.649/s).
+[Sat Mar  3 12:01:31 2012] [debug] GET /play/300.0/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 12:01:31 2012] [debug] Dispatching "Yamc::Player->play".
+[Sat Mar  3 12:01:33 2012] [debug] Rendering template "player/play.html.ep".
+[Sat Mar  3 12:01:33 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Mar  3 12:01:33 2012] [debug] 200 OK (2.684410s, 0.373/s).
+[Sat Mar  3 12:01:38 2012] [info] Server listening (http://*:3000)
+[Sat Mar  3 12:01:43 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar  3 12:01:43 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 12:01:43 2012] [debug] Dispatching "Yamc::Viewer->root".
+[Sat Mar  3 12:01:43 2012] [debug] Rendering template "viewer/rootview.html.ep".
+[Sat Mar  3 12:01:43 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Mar  3 12:01:43 2012] [debug] 200 OK (0.007944s, 125.881/s).
+[Sat Mar  3 12:01:45 2012] [debug] GET /view/home/kbut (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 12:01:45 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Sat Mar  3 12:01:45 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Sat Mar  3 12:01:45 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Mar  3 12:01:45 2012] [debug] 200 OK (0.007453s, 134.174/s).
+[Sat Mar  3 12:01:48 2012] [debug] GET /play/300.0/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 12:01:48 2012] [debug] Dispatching "Yamc::Player->play".
+[Sat Mar  3 12:01:51 2012] [debug] Rendering template "player/play.html.ep".
+[Sat Mar  3 12:01:51 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Mar  3 12:01:51 2012] [debug] 200 OK (2.672094s, 0.374/s).
+[Sat Mar  3 12:03:13 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar  3 12:03:13 2012] [debug] GET /view/home/kbut (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 12:03:13 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Sat Mar  3 12:03:13 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Sat Mar  3 12:03:13 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Mar  3 12:03:13 2012] [debug] 200 OK (0.009251s, 108.096/s).
+[Sat Mar  3 12:03:15 2012] [debug] GET /play/300.0/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 12:03:15 2012] [debug] Dispatching "Yamc::Player->play".
+[Sat Mar  3 12:03:17 2012] [debug] Rendering template "player/play.html.ep".
+[Sat Mar  3 12:03:17 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Mar  3 12:03:17 2012] [debug] 200 OK (2.653476s, 0.377/s).
+[Sat Mar  3 12:04:09 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar  3 12:04:09 2012] [debug] GET /play/300.0/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 12:04:09 2012] [debug] Dispatching "Yamc::Player->play".
+[Sat Mar  3 12:04:11 2012] [debug] Rendering template "player/play.html.ep".
+[Sat Mar  3 12:04:12 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Mar  3 12:04:12 2012] [debug] 200 OK (2.657289s, 0.376/s).
+[Sat Mar  3 12:06:38 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar  3 12:06:38 2012] [debug] GET /play/300.0/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 12:06:38 2012] [debug] Dispatching "Yamc::Player->play".
+[Sat Mar  3 12:06:41 2012] [debug] Rendering template "player/play.html.ep".
+[Sat Mar  3 12:06:41 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Mar  3 12:06:41 2012] [debug] 200 OK (2.681042s, 0.373/s).
+[Sat Mar  3 12:07:39 2012] [info] Server listening (http://*:3000)
+[Sat Mar  3 12:07:42 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar  3 12:07:42 2012] [debug] GET /view/home/kbut (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 12:07:42 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Sat Mar  3 12:07:42 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Sat Mar  3 12:07:42 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Mar  3 12:07:42 2012] [debug] 200 OK (0.009217s, 108.495/s).
+[Sat Mar  3 12:07:44 2012] [debug] GET /play/300/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 12:07:44 2012] [debug] Dispatching "Yamc::Player->play".
+[Sat Mar  3 12:07:58 2012] [debug] Rendering template "player/play.html.ep".
+[Sat Mar  3 12:07:58 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Mar  3 12:07:58 2012] [debug] 200 OK (14.471495s, 0.069/s).
+[Sat Mar  3 12:09:42 2012] [debug] GET /play/300/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 12:09:42 2012] [debug] Dispatching "Yamc::Player->play".
+[Sat Mar  3 12:09:45 2012] [debug] 200 OK (2.538537s, 0.394/s).
+[Sat Mar  3 12:48:12 2012] [debug] GET /play/300/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 12:48:12 2012] [debug] Dispatching "Yamc::Player->play".
+[Sat Mar  3 12:48:16 2012] [debug] 200 OK (4.044459s, 0.247/s).
+[Sat Mar  3 12:48:27 2012] [debug] GET /view/home/kbut (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 12:48:27 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Sat Mar  3 12:48:27 2012] [debug] 200 OK (0.002101s, 475.964/s).
+[Sat Mar  3 12:48:29 2012] [debug] GET /play/300/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 12:48:29 2012] [debug] Dispatching "Yamc::Player->play".
+[Sat Mar  3 12:48:36 2012] [debug] 200 OK (7.232600s, 0.138/s).
+[Sat Mar  3 12:49:03 2012] [debug] GET /play/300/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 12:49:03 2012] [debug] Dispatching "Yamc::Player->play".
+[Sat Mar  3 12:49:08 2012] [debug] 200 OK (4.464002s, 0.224/s).
+[Sat Mar  3 12:52:32 2012] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar  3 12:52:32 2012] [debug] GET /play/300/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 12:52:32 2012] [debug] Dispatching "Yamc::Player->play".
+[Sat Mar  3 12:52:35 2012] [debug] Rendering template "player/play.html.ep".
+[Sat Mar  3 12:52:35 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Mar  3 12:52:35 2012] [debug] 200 OK (2.674235s, 0.374/s).
+[Sat Mar  3 12:52:35 2012] [debug] GET /play/300/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 12:52:35 2012] [debug] Dispatching "Yamc::Player->play".
+[Sat Mar  3 12:52:39 2012] [debug] 200 OK (3.668336s, 0.273/s).
+[Sat Mar  3 12:52:42 2012] [debug] GET /view/home/kbut (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 12:52:42 2012] [debug] Dispatching "Yamc::Viewer->view".
+[Sat Mar  3 12:52:42 2012] [debug] Rendering template "viewer/directoryview.html.ep".
+[Sat Mar  3 12:52:42 2012] [debug] Rendering template "layouts/default.html.ep".
+[Sat Mar  3 12:52:42 2012] [debug] 200 OK (0.008078s, 123.793/s).
+[Sat Mar  3 12:52:43 2012] [debug] GET /play/300/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 12:52:43 2012] [debug] Dispatching "Yamc::Player->play".
+[Sat Mar  3 12:52:46 2012] [debug] 200 OK (3.125342s, 0.320/s).
+[Sat Mar  3 12:52:50 2012] [debug] GET /play/300/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 12:52:50 2012] [debug] Dispatching "Yamc::Player->play".
+[Sat Mar  3 12:52:55 2012] [debug] 200 OK (4.503751s, 0.222/s).
+[Sat Mar  3 12:52:56 2012] [debug] GET /play/300/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 12:52:56 2012] [debug] Dispatching "Yamc::Player->play".
+[Sat Mar  3 12:52:59 2012] [debug] 200 OK (3.353044s, 0.298/s).
+[Sat Mar  3 12:53:01 2012] [debug] GET /play/300/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 12:53:01 2012] [debug] Dispatching "Yamc::Player->play".
+[Sat Mar  3 12:53:01 2012] [debug] 200 OK (0.631625s, 1.583/s).
+[Sat Mar  3 12:53:03 2012] [debug] GET /play/300/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 12:53:03 2012] [debug] Dispatching "Yamc::Player->play".
+[Sat Mar  3 12:53:04 2012] [debug] 200 OK (0.484867s, 2.062/s).
+[Sat Mar  3 12:53:13 2012] [debug] GET /play/300/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 12:53:13 2012] [debug] Dispatching "Yamc::Player->play".
+[Sat Mar  3 12:53:15 2012] [debug] 200 OK (2.662968s, 0.376/s).
+[Sat Mar  3 12:53:19 2012] [debug] GET /play/300/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 12:53:19 2012] [debug] Dispatching "Yamc::Player->play".
+[Sat Mar  3 12:53:22 2012] [debug] 200 OK (2.662860s, 0.376/s).
+[Sat Mar  3 12:53:22 2012] [debug] GET /play/300/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 12:53:22 2012] [debug] Dispatching "Yamc::Player->play".
+[Sat Mar  3 12:53:23 2012] [debug] 200 OK (0.909931s, 1.099/s).
+[Sat Mar  3 12:53:29 2012] [debug] GET /play/300/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 12:53:29 2012] [debug] Dispatching "Yamc::Player->play".
+[Sat Mar  3 12:53:32 2012] [debug] 200 OK (2.648820s, 0.378/s).
+[Sat Mar  3 12:53:38 2012] [debug] GET /play/300/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 12:53:38 2012] [debug] Dispatching "Yamc::Player->play".
+[Sat Mar  3 12:53:41 2012] [debug] 200 OK (2.653744s, 0.377/s).
+[Sat Mar  3 12:53:46 2012] [debug] GET /play/300/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 12:53:46 2012] [debug] Dispatching "Yamc::Player->play".
+[Sat Mar  3 12:53:49 2012] [debug] 200 OK (2.667258s, 0.375/s).
+[Sat Mar  3 12:53:49 2012] [debug] GET /play/300/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 12:53:49 2012] [debug] Dispatching "Yamc::Player->play".
+[Sat Mar  3 12:53:52 2012] [debug] 200 OK (2.944279s, 0.340/s).
+[Sat Mar  3 12:53:59 2012] [debug] GET /play/300/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 12:53:59 2012] [debug] Dispatching "Yamc::Player->play".
+[Sat Mar  3 12:54:01 2012] [debug] 200 OK (2.653954s, 0.377/s).
+[Sat Mar  3 12:54:02 2012] [debug] GET /play/300/home/kbut/01.mp4 (Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1).
+[Sat Mar  3 12:54:02 2012] [debug] Dispatching "Yamc::Player->play".
+[Sat Mar  3 12:54:06 2012] [debug] 200 OK (4.436654s, 0.225/s).
