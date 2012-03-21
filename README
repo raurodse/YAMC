@@ -1,5 +1,14 @@
+Requirements
+============
+perl > 5.10
+MongoDB 
+perl-mongodb
+
 For Install
 ===========
+
+
+
 
 For Run
 ==========

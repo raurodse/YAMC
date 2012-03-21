@@ -6,15 +6,22 @@ sub play(){
         print "$command\n";
         my $salida = `$command`;
         # Render template "example/welcome.html.ep" with message
-        my @partido = split('\n',$salida);
-        for $salida(@partido)
+        my @partido = split('\n',$salida);   
+        my $position = 0;
+        my $output="";
+        while($position <= $#partido)
         {
-                print "$salida\n";
+                my $tempvar = $partido[$#partido - $position];
+                if ($tempvar =~ m/^A: /)
+                {
+                        $output = $tempvar;
+                        last;
+                }
+                else
+                {
+                        $position++;
+                }
         }
-        
-        
-        
-        my $output = $partido[length(@partido) - 6];
         $output =~ s/.* V:[[:blank:]]+([0-9]+\.[0-9]*) .*/ $1 /;
         if($output >=3){
                 $output -= 3;
